@@ -1,6 +1,0 @@
-#EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
-https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
-
-#EXTINF:0,[Palestine] Palestine
-http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
