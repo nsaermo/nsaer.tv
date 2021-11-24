@@ -13,7 +13,7 @@ http://185.5.222.146:8081/live/habbq18/chunks.m3u8?
 #EXTINF:0,[Palestine] Al Aqsa
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1772951385.m3u8
 #EXTINF:0,[Palestine] RAJEEN TV
-https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8/mono.m3u8
+https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
 #EXTINF:0,[Palestine] PalestinianY
 http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
 #EXTINF:0,[Palestine] MAANNE
@@ -22,8 +22,6 @@ http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 #EXTINF:0,[Palestine] Hala Ramallah
 https://halaramallahtv.com:8443/HRamallah-Tv/HalaRamallah/chunklist_w172061015.m3u8
-#EXTINF:0,[Palestine] Hala 
-https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:0,[Palestine] Hala 
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 #EXTINF:0,[Palestine] AJYAL
