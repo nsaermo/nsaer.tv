@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+
+#EXTINF:0,[NSAER TV] ROYA
+https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
+#EXTINF:0,[NSAER TV] ALMAMLKA
+https://almamlka-live.ercdn.net/almamlka/almamlka_1080p.m3u8
+#EXTINF:0,[NSAER TV] Amman TV
+https://ammantvlive.c.s73cdn.net/elemental/converted/af00a6e0-bd6a-11ea-b6de-e11847949c72/master_1280x720_2200k.m3u8
+#EXTINF:0,[NSAER TV] JORDAN TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd_720p.m3u8
+#EXTINF:0,[NSAER TV] AONE JORDAN
+http://82.212.74.99:8000/live/8111.m3u8
