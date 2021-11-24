@@ -1,0 +1,66 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer254.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+
+#EXTINF:0,[Palestine] Palestine
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] Palestine live
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] Palestine today
+https://live.paltodaytv.com/paltv/live/chunklist_w766400624.m3u8
+#EXTINF:0,[Palestine] Palestine alquds today
+http://185.5.222.146:8081/live/habbq18/chunks.m3u8?
+#EXTINF:0,[Palestine] Al Aqsa
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1772951385.m3u8
+#EXTINF:0,[Palestine] RAJEEN TV
+https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
+#EXTINF:0,[Palestine] PalestinianY
+http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
+#EXTINF:0,[Palestine] MAANNE
+http://htvmada.mada.ps:8888/maannews/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] Musawa
+http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] Hala Ramallah
+https://halaramallahtv.com:8443/HRamallah-Tv/HalaRamallah/chunklist_w172061015.m3u8
+#EXTINF:0,[Palestine] Hala 
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+#EXTINF:0,[Palestine] AJYAL
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] ALNAJAH
+https://streaming.najah.edu:8443/hls/AlNajah_mid/index.m3u8
+#EXTINF:0,[Palestine] Awdah TV
+http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] rehan
+http://vstream3.hadara.ps:8081/rehan_web/web/playlist.m3u8
+#EXTINF:0,[Palestine] Wattan
+http://217.21.0.15:8081/WattanHD/WattanHD/chunks.m3u8
+#EXTINF:0,[Palestine] RAYA1
+http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] WATAR SPORT
+http://htvmada.mada.ps:8888/orient2/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] WATAR TFA3LE
+http://vstream3.hadara.ps:8081/7alafm2020/7alafm2020/chunks.m3u8
+#EXTINF:0,[Palestine] Alhorreya SPORT
+http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
+#EXTINF:0,[Palestine] Alhorreya 2
+http://vstream3.hadara.ps:8081/hrHD_web/web/chunks.m3u8
+#EXTINF:0,[Palestine] PNN NEWS
+http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
+#EXTINF:0,[Palestine] MAKAN
+https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_1.8k/chunklist.m3u8
+#EXTINF:0,[Palestine] ORIENT
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] ALBALAD
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] MARAH
+http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
+#EXTINF:0,[Palestine] NABLUS
+http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] ALFAJER TV 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
+
+
+
+
+
