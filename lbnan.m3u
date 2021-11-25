@@ -3,8 +3,8 @@
 https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
 #EXTINF:0,[NSAER TV]  live future
-#EXTVLCOPT:http-user-agent=Rwatchlb/wlan:4b:d6:2e:ba:b9:fd/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel9/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Ade%3A04%3A54%3A86%3Ae5%3A07
+#EXTVLCOPT:http-user-agent=watchlb/wlan:4b:d6:2e:ba:b9:fd/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
+http://ssitv.ddns.net:9074/channel8/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Af8%3Aeb%3A07%3Af8%3A8c%3A14
 #EXTINF:0,[NSAER TV]  ALJADEED
 https://tv.chachatv.tk:443/live/ca34p3Kigg/NIM6tTESL2/128.ts
 #EXTINF:0,[NSAER TV] MTV
