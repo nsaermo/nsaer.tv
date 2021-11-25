@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+
+#EXTINF:0,[NSAER TV]  live future
+#EXTVLCOPT:http-user-agent=Rwatchlb/wlan:4b:d6:2e:ba:b9:fd/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
+http://ssitv.ddns.net:9074/channel9/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Ade%3A04%3A54%3A86%3Ae5%3A07
+#EXTINF:0,[NSAER TV]  ALJADEED
+https://tv.chachatv.tk:443/live/ca34p3Kigg/NIM6tTESL2/128.ts
+#EXTINF:0,[NSAER TV] MTV
+https://tv.chachatv.tk:443/live/ca34p3Kigg/NIM6tTESL2/457.ts
+#EXTINF:0,[NSAER TV] ALMANAR
+https://manar.live/iptv/tracks-v1a1/mono.m3u8
+#EXTINF:0,[NSAER TV] Alhiwar TV
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
+#EXTINF:0,[NSAER TV] ALMAYADEEN
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/chunklist_b1300000.m3u8
+#EXTINF:0,[NSAER TV] Tele Liban
+#EXTVLCOPT:http-user-agent=watchlb/wlan:4b:d6:2e:ba:b9:fd/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
+http://ssitv.ddns.net:9074/channel8/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Af8%3Aeb%3A07%3Af8%3A8c%3A14
+#EXTINF:0,[NSAER TV] LBC
+https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
+#EXTINF:0,[NSAER TV] LBC INT
+http://flusonic-13.platinum-tv.com/LDC/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:0,[NSAER TV] LBC 2
+#EXTVLCOPT:http-user-agent=watchlb/wlan:46:96:1d:da:0b:44/57b1157b-01d2-44da-84da-21ad51bce63e
+http://ssitv.ddns.net:9074/channel6/tracks-v2a1/mono.m3u8
+#EXTINF:0,[NSAER TV] NBN
+#EXTVLCOPT:http-user-agent=watchlb/wlan:de:04:54:86:e5:07/57b1157b-01d2-44da-84da-21ad51bce63e
+https://nbntv.me:8443/nbntv/tracks-v2a1/mono.m3u8
+#EXTINF:0,|NSAER TV|OTV
+https://tv.chachatv.tk:443/live/ca34p3Kigg/NIM6tTESL2/236.ts
+#EXTINF:0,[NSAER TV] ROAAY NEW
+https://master.starmena-cloud.com/hls/newv.m3u8
+#EXTINF:0,[NSAER TV] Alittihad‏
+https://live.alittihad.tv/ittihad/chunklist_w322831097.m3u8
+#EXTINF:0,[NSAER TV] ALIMAN TV
+https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
