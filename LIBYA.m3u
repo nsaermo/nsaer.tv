@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+
+#EXTINF:0,[NSAER TV] LIBYAS TV
+https://master.starmena-cloud.com/hls/libyas.m3u8
+#EXTINF:0,[NSAER TV]  Libya Alhadath
+https://master.starmena-cloud.com/hls/hd.m3u8?DVR&v=3652148892
+#EXTINF:0,[NSAER TV] Libya Alahrar
+https://video.zidivo.com/live983/GrtjM_FNGC/tracks-v1a1/mono.m3u8
+#EXTINF:0,[NSAER TV] Salam TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
+#EXTINF:0,[NSAER TV] ALGMHRYA
+https://master.starmena-cloud.com/hls/jam.m3u8
+#EXTINF:0,[NSAER TV] Wasat TV
+https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_720p/chunks.m3u8
+#EXTINF:0,[NSAER TV] Febrayer TV
+https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist_b200000.m3u8
+#EXTINF:0,[NSAER TV] 218 NEWS
+https://218tv.akamaized.net/edge/615c6485275a8057847e0026/live_3982873027cc11ec86950df2beca5773/tracks-v1a1/mono.m3u8
+#EXTINF:0,[NSAER TV] 218
+https://218tv.akamaized.net/edge/615c6485275a8057847e0026/live_3fd9440026a711eca011ed5ece276ef4/tracks-v1a1/mono.m3u8
+#EXTINF:0,[NSAER TV] Libya Al Wataniya
+https://nimplus6eu1.giniko.com/libya/libya/chunklist_w1637150206.m3u8?nimblesessionid=8817278&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSA2OjU0OjU2IFBNJmhhc2hfdmFsdWU9dm55MDF0a29rK3dFN1lsS3l5dm5lUT09JnZhbGlkbWludXRlcz0yODgw
+
