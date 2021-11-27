@@ -17,8 +17,10 @@ https://alwasattv.hibridcdn.net/alwasattv/alwasat_abr/alwasattv/alwasat_720p/chu
 #EXTINF:0,[NSAER TV] Febrayer TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/chunklist_b200000.m3u8
 #EXTINF:0,[NSAER TV] 218 NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
 https://218tv.akamaized.net/edge/615c6485275a8057847e0026/live_3982873027cc11ec86950df2beca5773/tracks-v1a1/mono.m3u8
 #EXTINF:0,[NSAER TV] 218
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
 https://218tv.akamaized.net/edge/615c6485275a8057847e0026/live_3fd9440026a711eca011ed5ece276ef4/tracks-v1a1/mono.m3u8
 #EXTINF:0,[NSAER TV] Libya Al Wataniya
 https://nimplus6eu1.giniko.com/libya/libya/chunklist_w1637150206.m3u8?nimblesessionid=8817278&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjcvMjAyMSA2OjU0OjU2IFBNJmhhc2hfdmFsdWU9dm55MDF0a29rK3dFN1lsS3l5dm5lUT09JnZhbGlkbWludXRlcz0yODgw
