@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+
+#EXTINF:0,[NSAER TV] AL Kass SPORT 1
+http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=alkass1&v=934964058
+#EXTINF:0,[NSAER TV] AL Kass SPORT 2
+http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=alkass2&v=2147040973
+#EXTINF:0,[NSAER TV] AL Kass SPORT 4
+http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=alkass4&v=674130937
+#EXTINF:0,[NSAER TV] AL Kass SPORT 5
+http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=alkass5&v=2038172585
+#EXTINF:0,[NSAER TV] AL Kass OnLine
+http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=alkassonline&v=1742334572
+
