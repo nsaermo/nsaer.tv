@@ -31,7 +31,8 @@ http://ssitv.ddns.net:9074/channel6/tracks-v2a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=watchlb/wlan:de:04:54:86:e5:07/57b1157b-01d2-44da-84da-21ad51bce63e
 https://nbntv.me:8443/nbntv/tracks-v2a1/mono.m3u8
 #EXTINF:0,|NSAER TV|OTV
-https://tv.chachatv.tk:443/live/ca34p3Kigg/NIM6tTESL2/236.ts
+#EXTVLCOPT:http-user-agent=watchlb/wlan:4f:fa:bc:4a:45:92/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
+http://ssitv.ddns.net:9074/channel3/tracks-v1a1/mono.m3u8
 #EXTINF:0,[NSAER TV] ROAAY NEW
 https://master.starmena-cloud.com/hls/newv.m3u8
 #EXTINF:0,[NSAER TV] Alittihad‏
