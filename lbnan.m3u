@@ -8,7 +8,8 @@ http://ssitv.ddns.net:9074/channel8/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Af8
 #EXTINF:0,[NSAER TV]  ALJADEED
 https://tv.chachatv.tk:443/live/ca34p3Kigg/NIM6tTESL2/128.ts
 #EXTINF:0,[NSAER TV] MTV
-https://tv.chachatv.tk:443/live/ca34p3Kigg/NIM6tTESL2/457.ts
+#EXTVLCOPT:http-user-agent=watchlb/wlan:7a:d6:ec:93:04:e3/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
+http://ssitv.ddns.net:9074/channel1/tracks-v2a1/mono.m3u8
 #EXTINF:0,[NSAER TV] ALMANAR
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
 #EXTINF:0,[NSAER TV] Alhiwar TV
