@@ -6,7 +6,8 @@ https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 #EXTVLCOPT:http-user-agent=watchlb/wlan:4b:d6:2e:ba:b9:fd/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
 http://ssitv.ddns.net:9074/channel8/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Af8%3Aeb%3A07%3Af8%3A8c%3A14
 #EXTINF:0,[NSAER TV]  ALJADEED
-https://tv.chachatv.tk:443/live/ca34p3Kigg/NIM6tTESL2/128.ts
+#EXTVLCOPT:http-user-agent=watchlb/wlan:dd:f2:5b:4f:d8:38/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
+http://ssitv.ddns.net:9074/channel7/tracks-v1a1/mono.m3u8
 #EXTINF:0,[NSAER TV] MTV
 #EXTVLCOPT:http-user-agent=watchlb/wlan:7a:d6:ec:93:04:e3/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
 http://ssitv.ddns.net:9074/channel1/tracks-v2a1/mono.m3u8
