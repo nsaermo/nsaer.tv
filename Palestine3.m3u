@@ -56,6 +56,8 @@ http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/tracks-v1a1/mono
 http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:0,[Palestine] NABLUS
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
+#EXTINF:0,[Palestine] ALFAJER TV 1
+http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=alfajertv&v=1237819632
 #EXTINF:0,[Palestine] ALFAJER TV 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
 
