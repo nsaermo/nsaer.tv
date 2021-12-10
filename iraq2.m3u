@@ -30,3 +30,12 @@ https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:0,[NSAER TV] AL ETEJAH TV
 https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/playlist.m3u8
+#EXTINF:0,[NSAER TV] IRAQ SPORT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.211:2200/TN/iraqiasporthd-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:0,[NSAER TV] SBAB SPORT
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.210:2200/TR/alshababsporthd-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:0,[NSAER TV] AL RABIAA
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.211:2200/TR-N/AlRabiaa_Iraq_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
