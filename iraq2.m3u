@@ -28,3 +28,5 @@ http://148.66.130.171:1935/Alahadlive/AlahadTV/chunklist_w1075532857.m3u8
 https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
 #EXTINF:0,[NSAER TV] ZAGROS TV
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:0,[NSAER TV] AL ETEJAH TV
+https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/playlist.m3u8
