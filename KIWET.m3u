@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+
+#EXTINF:0,[NSAER TV] KTV 1
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtv1
+#EXTINF:0,[NSAER TV] KTV 2
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtv2
+#EXTINF:0,[NSAER TV] KTV ARABE
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvarabi
+#EXTINF:0,[NSAER TV] KTV AL QURAIN
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvqurain
+#EXTINF:0,[NSAER TV] KTV ETHRAA
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvethraa
+#EXTINF:0,[NSAER TV] KTV SPORT
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvsports
+#EXTINF:0,[NSAER TV] KTV SPORT 2
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvsportsplus
+#EXTINF:0,[NSAER TV] KTV KHALLIK BILBAIT 
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvkids
+#EXTINF:0,[NSAER TV] KTV ALMAJLIS
+http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvmajlis
+#EXTINF:0,[NSAER TV] AL BAWADI
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8
+#EXTINF:0,[NSAER TV] AL SABAH
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
+#EXTINF:0,[NSAER TV] ALRAI TV
+https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
+#EXTINF:0,[NSAER TV] ATV
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/playlist.m3u8
+#EXTINF:0,[NSAER TV] FUNOON
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
+
