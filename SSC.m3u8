@@ -1,0 +1,26 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+
+#EXTINF:0,[NSAER TV] SSC SPORT 1
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.208:2200/EX/SSC_01_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:0,[NSAER TV] SSC SPORT 2
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.211:2200/EX/SSC_02_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:0,[NSAER TV] SSC SPORT 3
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.211:2200/EX/SSC_03_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:0,[NSAER TV] SSC SPORT 4
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.208:2200/EX/SSC_04_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:0,[NSAER TV] SSC SPORT 5
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.208:2200/EX/SSC_05_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:0,[NSAER TV] SSC SPORT 6
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.208:2200/EX/SSC_06_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:0,[NSAER TV] SSC SPORT 7
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.208:2200/EX/SSC_07_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+
