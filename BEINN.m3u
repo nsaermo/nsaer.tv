@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+
+
+
+#EXTINF:-1,SPO: beIN Sports Premium 1 HD
+http://91.239.130.57:25461/sportway/sportway_android/1
+#EXTINF:-1,SPO: beIN Sports Premium 2 HD
+http://91.239.130.57:25461/sportway/sportway_android/2
+#EXTINF:-1,SPO: beIN Sports Premium 3 HD
+http://91.239.130.57:25461/sportway/sportway_android/3
+#EXTINF:-1,SPO: beIN Sports 1 HD
+http://91.239.130.57:25461/sportway/sportway_android/4
+#EXTINF:-1,SPO: beIN Sports 2 HD
+http://91.239.130.57:25461/sportway/sportway_android/5
+#EXTINF:-1,SPO: beIN Sports 3 HD
+http://91.239.130.57:25461/sportway/sportway_android/6
+#EXTINF:-1,SPO: beIN Sports 4 HD
+http://91.239.130.57:25461/sportway/sportway_android/7
+#EXTINF:-1,SPO: beIN Sports 5 HD
+http://91.239.130.57:25461/sportway/sportway_android/8
+#EXTINF:-1,SPO: beIN Sports Pre 1 SD
+http://91.239.130.57:25461/sportway/sportway_android/9
+#EXTINF:-1,SPO: beIN Sports Pre 2 SD
+http://91.239.130.57:25461/sportway/sportway_android/10
+#EXTINF:-1,SPO: beIN Sports Pre 3 SD
+http://91.239.130.57:25461/sportway/sportway_android/11
+#EXTINF:-1,SPO: beIN Sports 1 SD
+http://91.239.130.57:25461/sportway/sportway_android/12
+#EXTINF:-1,SPO: beIN Sports 2 SD
+http://91.239.130.57:25461/sportway/sportway_android/13
+#EXTINF:-1,SPO: beIN Sports 3 SD
+http://91.239.130.57:25461/sportway/sportway_android/14
+#EXTINF:-1,SPO: beIN Sports 4 SD
+http://91.239.130.57:25461/sportway/sportway_android/15
+#EXTINF:-1,SPO: beIN Sports 5 SD
+http://91.239.130.57:25461/sportway/sportway_android/16
+#EXTINF:-1,SPORTS-ON-TIME-1
+http://91.239.130.57:25461/sportway/sportway_android/17
+#EXTINF:-1,SPORTS-ON-TIME-2
+http://91.239.130.57:25461/sportway/sportway_android/18
+#EXTINF:-1,SPORTS-ON-TIME-3
+http://91.239.130.57:25461/sportway/sportway_android/19
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://91.239.130.57:25461/sportway/sportway_android/20
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://91.239.130.57:25461/sportway/sportway_android/21
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="1 بين سبور BEIN SPORT", beIN Sports Extra
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d34hZkDX/Ednar33-TV.png" group-title="1 بين سبور BEIN SPORT", beIN La Liga
+http://93.152.174.144:4000/play/beinlaliga/index.m3u8?mvk
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/sTe2Wwj.png",[$]BEIN SPORTS NEWS HD
+http://much02.cularu.com:8880/sch15m3n111/gf34t34r342/2141
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD
+http://130.193.166.18/cache/Bein-Prem-1-HEVC/master.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD
+http://130.193.166.18/cache/Bein-Prem-2-HEVC/master.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD
+http://130.193.166.18/cache/Bein-Prem-3-HEVC/master.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/TaHm3Dl.png",[$]BEIN SPORTS HD
+http://93.152.174.144:4000/play/BEINSPORTAR/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
+http://23.88.39.74/live/918454578001/index.m3u8?olty
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
+http://23.88.39.74/live/69854211/index.m3u8?olty
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
+http://93.152.174.144:4000/play/bein3ar/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
+http://93.152.174.144:4000/play/bein4ar/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
+http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
+http://23.88.39.74/live/1515000000/index.m3u8?
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
+http://93.152.174.144:4000/play/bein7/index.m3u8
+
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 1 HD FR
+#EXTGRP:Deportes
+http://93.152.174.144:4000/play/bein1fr/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 2 HD FR
+#EXTGRP:Deportes
+http://93.152.174.144:4000/play/bein2fr/index.m3u8
+#EXTINF:-1 group-title="1 بين سبور BEIN SPORT" tvg-logo="",Bein Sports 3 HD FR
+#EXTGRP:Deportes
+http://93.152.174.144:4000/play/bein3fr/index.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="بين سبور BEIN SPORT",beIN Sports 1 PREMIUM fHD
+http://45.94.31.45/beinm16508/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="بين سبور BEIN SPORT",beIN Sports 2 PREMIUM fHD
+http://45.94.31.45/beinm16509/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="بين سبور BEIN SPORT",beIN Sports 3 PREMIUM fHD
+http://45.94.31.45/beinm16510/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein1hd.jsc" group-title="بين سبور BEIN SPORT",beIN Sports 1 fHD
+http://45.94.31.45/beinm16501/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein2hd.jsc" group-title="بين سبور BEIN SPORT",beIN Sports 2 fHD
+http://45.94.31.45/beinm16502/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein3hd.jsc" group-title="بين سبور BEIN SPORT",beIN Sports 3 fHD
+http://45.94.31.45/beinm16503/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein4hd.jsc" group-title="بين سبور BEIN SPORT",beIN Sports 4 fHD
+http://45.94.31.45/beinm16504/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein5hd.jsc" group-title="بين سبور BEIN SPORT",beIN Sports 5 fHD
+http://45.94.31.45/beinm16505/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein6hd.jsc" group-title="بين سبور BEIN SPORT",beIN Sports 6 fHD
+http://45.94.31.45/beinm16506/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="bein7hd.jsc" group-title="بين سبور BEIN SPORT",beIN Sports 7 fHD
+http://45.94.31.45/beinm16507/tracks-v1a1/mono.m3u8
