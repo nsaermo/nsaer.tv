@@ -5,8 +5,8 @@ https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 #EXTINF:0,[NSAER TV] MBC1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
 #EXTINF:0,[NSAER TV] MBC2
-#EXTVLCOPT:http-user-agent=com.syriatv2020/1.0 (Linux;Android 6.0.1) ExoPlayerLib/2.8.4
-https://tv.chachatv.tk:443/live/user56dgds/passcode467/238.ts
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.204:2200/TN/mbc2-ar/tracks-v1a1/mono.m3u8?token=RED_isH3JjEI9q1YqFUwdRSm9w%3D%3D%2C1639483568.4009414566
 #EXTINF:0,[NSAER TV] MBC3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:0,[NSAER TV] MBC4
@@ -26,10 +26,11 @@ https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/in
 #EXTINF:0,[NSAER TV] MBC MASR 2 
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:0,[NSAER TV] MBC MAX 
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.204:2200/TN/mbcmax-ar/tracks-v1a1/mono.m3u8?token=RED_isH3JjEI9q1YqFUwdRSm9w%3D%3D%2C1639483568.4009414566
 #EXTINF:0,[NSAER TV] MBC PERSIA
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:0,[NSAER TV] MBC ACTION
-#EXTVLCOPT:http-user-agent=com.syriatv2020/1.0 (Linux;Android 6.0.1) ExoPlayerLib/2.8.4
-https://tv.chachatv.tk:443/live/televisionarabi/passtvarabi/246.ts
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.204:2200/TN/mbcaction-ar/tracks-v1a1/mono.m3u8?token=RED_isH3JjEI9q1YqFUwdRSm9w%3D%3D%2C1639483568.4009414566
 
