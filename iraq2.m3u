@@ -7,7 +7,8 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 #EXTINF:0,[NSAER TV] AL RASHEED
 https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
 #EXTINF:0,[NSAER TV] AL SUMARIA
-http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=sumari&v=1930225139
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.212:2200/TR-N/Al_Sumaria_HD_TV-ar/tracks-v1a1/mono.m3u8?token=STATIC
 #EXTINF:0,[NSAER TV] DIJLAH
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:0,[NSAER TV] AL IRAQYA
