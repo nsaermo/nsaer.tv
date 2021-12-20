@@ -6,7 +6,7 @@ https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
 
 
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/premiu14.png" group-title="",[color yellow]MBC+ PREMIUM[/color]
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/premiu14.png" group-title="MBC+ PREMIUM", 
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 http://one.dream4ktv.biz:2082/DM_DREAMSATARABIC/ukHjgEHC/484570
 
