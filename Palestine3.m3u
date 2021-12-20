@@ -20,8 +20,6 @@ https://live.paltodaytv.com/paltv/live/chunklist_w766400624.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aac_ao11.png",القدس اليوم
 http://185.5.222.146:8081/live/habbq18/chunks.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao66.png",الاقصى
-http://185.5.222.146:8081/live/habbq18/chunks.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao66.png",الاقصى
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1772951385.m3u8
