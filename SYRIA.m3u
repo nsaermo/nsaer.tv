@@ -8,7 +8,8 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunk
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 http://212.224.98.205:2200/TN/samatv-ar/tracks-v1a1/mono.m3u8?token=STATIC
 #EXTINF:0,[NSAER TV] ALSYRIAY
-http://82.137.248.16:1935/Sat/stream19042021/chunklist_w212426447.m3u8
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.208:2200/TN/syriasatellitechannel-ar/tracks-v1a1/mono.m3u8?token=STATIC
 #EXTINF:0,[NSAER TV] SYRIA DRAMA
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 http://212.224.98.204:2200/TN/syriandramatv-ar/tracks-v1a1/mono.m3u8?token=STATIC
