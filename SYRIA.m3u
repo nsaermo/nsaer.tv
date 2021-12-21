@@ -16,7 +16,7 @@ http://212.224.98.204:2200/TN/syriandramatv-ar/tracks-v1a1/mono.m3u8?token=STATI
 #EXTINF:0,[NSAER TV] Tarbaouia
 http://82.137.248.16:1935/SEdu/stream19042021/chunklist.m3u8
 #EXTINF:0,[NSAER TV] Noor Sham
-http://82.137.248.16:1935/Nour/stream19042021/chunklist_w1258711067.m3u8
+https://tv.chachatv.tk:443/live/syria87028/pas874509/264.ts
 #EXTINF:0,[NSAER TV] Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:0,[NSAER TV] ALARABY
