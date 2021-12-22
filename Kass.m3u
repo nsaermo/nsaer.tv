@@ -3,7 +3,8 @@
 https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
 #EXTINF:0,[NSAER TV] AL Kass SPORT 1
-https://tv.chachatv.tk:443/live/syria0000068/pass005120956/483.ts
+#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.208:2200/TR-N/Alkass_one_HD-ar/tracks-v1a1/mono.m3u8?token=RED_Gsf-AanSnfw221IAA3H8Lw%3D%3D%2C1640233251.4009414566
 #EXTINF:0,[NSAER TV] AL Kass SPORT 2
 https://tv.chachatv.tk:443/live/syria0000068/pass005120956/484.ts
 #EXTINF:0,[NSAER TV] AL Kass SPORT 4
