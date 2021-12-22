@@ -1,0 +1,50 @@
+#EXTM3U
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 1", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+https://rented2.mireasa.live/cdn/premium98/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 2",
+#EXTVLCOPT:http-user-agent=User-Agent:Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+https://rented2.mireasa.live/cdn/premium99/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 3", 
+#EXTVLCOPT:http-user-agent=User-Agent:REDLINECLIENT ANDROID MOBILE 1.0.16
+http://212.224.98.204:2200/EX/bein10sd-ar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 1", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+https://rented2.mireasa.live/cdn/premium91/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 2", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+https://rented2.mireasa.live/cdn/premium92/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 3", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+https://rented2.mireasa.live/cdn/premium93/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 4", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+https://rented2.mireasa.live/cdn/premium94/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 5", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+https://rented2.mireasa.live/cdn/premium95/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 6", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+https://rented2.mireasa.live/cdn/premium96/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 7", 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36
+https://rented2.mireasa.live/cdn/premium97/video.m3u8
+
+
+
