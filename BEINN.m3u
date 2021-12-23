@@ -1,193 +1,139 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ooaa13.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
 https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
 
 
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 1 PREMIUM HD
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 PREMIUM HD
 http://1.banglokora.xyz/live/61616550012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 1 PREMIUM SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 PREMIUM SD
 http://1.banglokora.xyz/live/888242570012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 1 PREMIUM LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 PREMIUM LOW
 http://1.banglokora.xyz/live/978484840012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 2 PREMIUM HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 PREMIUM HD
 http://1.banglokora.xyz/live/6161949878/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 2 PREMIUM SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 PREMIUM SD
 http://1.banglokora.xyz/live/794812450/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 2 PREMIUM LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",Sports 2 PREMIUM LOW
 http://1.banglokora.xyz/live/1222338888/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 3 PREMIUM HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 PREMIUM HD
 http://1.banglokora.xyz/live/61512788878/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 3 PREMIUM SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 PREMIUM SD
 http://1.banglokora.xyz/live/179885580/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 3 PREMIUM LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 PREMIUM LOW
 http://1.banglokora.xyz/live/8197978778/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title=" NSAER.TV",beIN Sports 1 HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 HD
 http://1.banglokora.xyz/live/918454578001/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title=" NSAER.TV",beIN Sports 1 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 SD
 http://1.banglokora.xyz/live/978488877005/index.m3u8
-#EXTINF:0 tvg-id="beINSport1.fr" group-title=" NSAER.TV",beIN Sports 1 LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 LOW
 http://1.banglokora.xyz/live/31009988005/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title=" NSAER.TV",beIN Sports 2 HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 HD
 http://1.banglokora.xyz/live/69854211/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title=" NSAER.TV",beIN Sports 2 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 SD
 http://1.banglokora.xyz/live/10011244/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 2 LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 LOW
 http://1.banglokora.xyz/live/4798998070/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title=" NSAER.TV",beIN Sports 3 HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 HD
 http://1.banglokora.xyz/live/645587700/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title=" NSAER.TV",beIN Sports 3 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 SD
 http://1.banglokora.xyz/live/161988840/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 3 LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 LOW
 http://1.banglokora.xyz/live/551818447/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title=" NSAER.TV",beIN Sports 4 HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 4 HD
 http://1.banglokora.xyz/live/9787488847/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title=" NSAER.TV",beIN Sports 4 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 4 SD
 http://1.banglokora.xyz/live/0103088447/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 4 LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 4 LOW
 http://1.banglokora.xyz/live/131326625/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title=" NSAER.TV",beIN Sports 5 HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 5 HD
 http://1.banglokora.xyz/live/610303030/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title=" NSAER.TV",beIN Sports 5 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 5 SD
 http://1.banglokora.xyz/live/115451004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 5 LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 5 LOW
 http://1.banglokora.xyz/live/181818444/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title=" NSAER.TV",beIN Sports 6 HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 6 HD
 http://1.banglokora.xyz/live/1515000000/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title=" NSAER.TV",beIN Sports 6 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 6 SD
 http://1.banglokora.xyz/live/788550011/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 6 LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 6 LOW
 http://1.banglokora.xyz/live/9883322/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title=" NSAER.TV",beIN Sports 7 HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 7 HD
 http://1.banglokora.xyz/live/791001144/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title=" NSAER.TV",beIN Sports 7 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 7 SD
 http://1.banglokora.xyz/live/100666696/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 7 LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 7 LOW
 http://1.banglokora.xyz/live/130306224/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 1 HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 1 HD
 http://1.banglokora.xyz/live/996256440/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 2 HD
-http://1.banglokora.xyz/live/8800255521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 1 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 1 SD
 http://1.banglokora.xyz/live/77000254/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 2 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 1 LOW
+http://1.banglokora.xyz/live/0417877700/index.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 2 HD
+http://1.banglokora.xyz/live/8800255521/index.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 2 SD
 http://1.banglokora.xyz/live/51514003371/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 1 LOW
-http://1.banglokora.xyz/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 2 LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 2 LOW
 http://1.banglokora.xyz/live/9982225541/index.m3u8
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title=" NSAER.TV",beIN Sports News
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports News
 http://1.banglokora.xyz/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 1 HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 1 HD
 http://1.banglokora.xyz/live/33523510/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 1 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 1 SD
 http://1.banglokora.xyz/live/14066007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 1 LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 1 LOW
 http://1.banglokora.xyz/live/79247621/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 2 HD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 2 HD
 http://1.banglokora.xyz/live/652177700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 2 SD
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 2 SD
 http://1.banglokora.xyz/live/68525202/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 2 LOW
-http://1.banglokora.xyz/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 3 HD
-http://1.banglokora.xyz/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 3 SD
-http://1.banglokora.xyz/live/32842140/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 3 LOW
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 3 LOW
 http://1.banglokora.xyz/live/2433016410/index.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 1 PREMIUM HD
-http://b.banourahga.xyz/live/61616550012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 1 PREMIUM SD
-http://b.banourahga.xyz/live/888242570012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 1 PREMIUM LOW
-http://b.banourahga.xyz/live/978484840012/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 2 PREMIUM HD
-http://b.banourahga.xyz/live/6161949870/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 2 PREMIUM SD
-http://b.banourahga.xyz/live/794812450/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 2 PREMIUM LOW
-http://b.banourahga.xyz/live/1222338880/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 3 PREMIUM HD
-http://b.banourahga.xyz/live/61512788870/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 3 PREMIUM SD
-http://b.banourahga.xyz/live/179885580/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 3 PREMIUM LOW
-http://b.banourahga.xyz/live/8197978770/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title=" NSAER.TV",beIN Sports 1 HD
-http://b.banourahga.xyz/live/918454578005/index.m3u8
-#EXTINF:0 tvg-id="bein1hd.jsc" group-title=" NSAER.TV",beIN Sports 1 SD
-http://b.banourahga.xyz/live/978488877005/index.m3u8
-#EXTINF:0 tvg-id="beINSport1.fr" group-title=" NSAER.TV",beIN Sports 1 LOW
-http://b.banourahga.xyz/live/31009988005/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title=" NSAER.TV",beIN Sports 2 HD
-http://b.banourahga.xyz/live/69854211/index.m3u8
-#EXTINF:0 tvg-id="bein2hd.jsc" group-title=" NSAER.TV",beIN Sports 2 SD
-http://b.banourahga.xyz/live/10011244/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 2 LOW
-http://b.banourahga.xyz/live/4798998070/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title=" NSAER.TV",beIN Sports 3 HD
-http://b.banourahga.xyz/live/645587700/index.m3u8
-#EXTINF:0 tvg-id="bein3hd.jsc" group-title=" NSAER.TV",beIN Sports 3 SD
-http://b.banourahga.xyz/live/161988840/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 3 LOW
-http://b.banourahga.xyz/live/551818447/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title=" NSAER.TV",beIN Sports 4 HD
-http://b.banourahga.xyz/live/9787488847/index.m3u8
-#EXTINF:0 tvg-id="bein4hd.jsc" group-title=" NSAER.TV",beIN Sports 4 SD
-http://b.banourahga.xyz/live/0103088447/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 4 LOW
-http://b.banourahga.xyz/live/131326625/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title=" NSAER.TV",beIN Sports 5 HD
-http://b.banourahga.xyz/live/610303030/index.m3u8
-#EXTINF:0 tvg-id="bein5hd.jsc" group-title=" NSAER.TV",beIN Sports 5 SD
-http://b.banourahga.xyz/live/115451004/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 5 LOW
-http://b.banourahga.xyz/live/181818444/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title=" NSAER.TV",beIN Sports 6 HD
-http://b.banourahga.xyz/live/1515000000/index.m3u8
-#EXTINF:0 tvg-id="bein6hd.jsc" group-title=" AdrarTV",beIN Sports 6 SD
-http://b.banourahga.xyz/live/788550011/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 6 LOW
-http://b.banourahga.xyz/live/9883322/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title=" NSAER.TV",beIN Sports 7 HD
-http://b.banourahga.xyz/live/791001144/index.m3u8
-#EXTINF:0 tvg-id="bein7hd.jsc" group-title=" NSAER.TV",beIN Sports 7 SD
-http://b.banourahga.xyz/live/100666696/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports 7 LOW
-http://b.banourahga.xyz/live/130306224/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 1 HD
-http://b.banourahga.xyz/live/996256440/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 2 HD
-http://b.banourahga.xyz/live/8800255521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 1 SD
-http://b.banourahga.xyz/live/77000254/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 2 SD
-http://b.banourahga.xyz/live/51514003371/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 1 LOW
-http://b.banourahga.xyz/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports Xtra 2 LOW
-http://b.banourahga.xyz/live/9982225541/index.m3u8
-#EXTINF:0 tvg-id="beinsportsnews.jsc" group-title=" NSAER.TV",beIN Sports News
-http://b.banourahga.xyz/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 1 HD
-http://b.banourahga.xyz/live/33523510/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 1 SD
-http://b.banourahga.xyz/live/14066007/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 1 LOW
-http://b.banourahga.xyz/live/79247621/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 2 HD
-http://b.banourahga.xyz/live/652177700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 2 SD
-http://b.banourahga.xyz/live/68525202/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 2 LOW
-http://b.banourahga.xyz/live/0417877700/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 3 HD
-http://b.banourahga.xyz/live/62464521/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 3 SD
-http://b.banourahga.xyz/live/32842140/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title=" NSAER.TV",beIN Sports FR 3 LOW
-http://b.banourahga.xyz/live/2433016410/index.m3u8
+
+
 
