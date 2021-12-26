@@ -3,8 +3,7 @@
 https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
 #EXTINF:0,[NSAER TV] SSC SPORT 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.208:2200/EX/SSC_01_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+https://ssc-5-ak.akamaized.net/out/v1/6ae0a2ebab224c72ab9c298afeec8d91/index.m3u8
 #EXTINF:0,[NSAER TV] SSC SPORT 2
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 http://212.224.98.211:2200/EX/SSC_02_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
