@@ -1,48 +1,48 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ooaa13.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ooaa12.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
 https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
 
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT PREMIUM 1
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/61143.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT PREMIUM 2
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/61144.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT PREMIUM 3
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/61145.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT 1
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/47275.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT 2
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/47279.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT 3
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/47277.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT 4
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/138.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT 5
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/7478.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT 6
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/140.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT 7
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/141.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN NEWS
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/5275.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT XTRA 1
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/47292.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",BEIN SPORT XTRA 2
-http://obsfullhd.tv:25461/live/Freeiptv/oJKu4YFSWT/47293.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 1", 
+#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://eaiptv.net:8888/live/future3/future3/26500.m3u8
 
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 2",
+#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://eaiptv.net:8888/live/future3/future3/26501.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 3", 
+#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://eaiptv.net:8888/live/future3/future3/26481.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 1", 
+#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://eaiptv.net:8888/live/future3/future3/26482.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 2", 
+#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://eaiptv.net:8888/live/future3/future3/26483.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 3", 
+#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://eaiptv.net:8888/live/future3/future3/26600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 4", 
+#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://eaiptv.net:8888/live/future3/future3/26485.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 5", 
+#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://eaiptv.net:8888/live/future3/future3/26486.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 6",
+#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://eaiptv.net:8888/live/future3/future3/26487.m3u8
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 7", 
+#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://eaiptv.net:8888/live/future3/future3/26488.m3u8
 
