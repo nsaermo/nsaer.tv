@@ -7,7 +7,6 @@ https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
 
 #EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN MOVIES", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26552.m3u8
 
 #EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN MOVIES FIRST", 
