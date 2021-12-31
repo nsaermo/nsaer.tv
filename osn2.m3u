@@ -1,85 +1,70 @@
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/io15.png",رؤيا
-https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
+
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN MOVIES
 http://eaiptv.net:8888/live/future3/future3/26552.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN MOVIES FIRST", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN MOVIES FIRST
 http://eaiptv.net:8888/live/future3/future3/26553.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN اليوم", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN اليوم
 http://eaiptv.net:8888/live/future3/future3/20171.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN يا هلا", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN يا هلا
 http://eaiptv.net:8888/live/future3/future3/20172.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN  يا هلا الاولى", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN  يا هلا الاولى
 http://eaiptv.net:8888/live/future3/future3/20174.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN  يا هلا سينما", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN  يا هلا سينما
 http://eaiptv.net:8888/live/future3/future3/26542.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN كوميدي", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN  كوميدي
 http://eaiptv.net:8888/live/future3/future3/20181.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN اكشن", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN  اكشن
 http://eaiptv.net:8888/live/future3/future3/20183.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN الصفوة", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN  الصفوة
 http://eaiptv.net:8888/live/future3/future3/20200.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN الصفوة", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
-http://eaiptv.net:8888/live/future3/future3/20200.m3u8
-
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN سينما 1", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN  سينما 1
 http://eaiptv.net:8888/live/future3/future3/26540.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN سينما 2", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN  سينما 2
 http://eaiptv.net:8888/live/future3/future3/26541.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN مسلسلات 1", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN  مسلسلات  1
 http://eaiptv.net:8888/live/future3/future3/26545.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN مسلسلات 2", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN  مسلسلات  2
 http://eaiptv.net:8888/future3/future3/20198
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN HISTORY", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN HISTORY  
 http://eaiptv.net:8888/live/future3/future3/20201.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN ID", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN ID  
 http://eaiptv.net:8888/live/future3/future3/20203.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN LIVING", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN LIVING  
 http://eaiptv.net:8888/live/future3/future3/20204.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN DISCOVERY", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN DISCOVERY  
 http://eaiptv.net:8888/live/future3/future3/20203.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN فــن", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN فــن  
 http://eaiptv.net:8888/live/future3/future3/20192.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png" group-title="OSN MEZZE", 
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/osn10.png",OSN MEZZE  
 http://eaiptv.net:8888/live/future3/future3/20193.m3u8
+
+
+
+
+
+
+
+
 
 
