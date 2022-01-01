@@ -1,7 +1,3 @@
-#EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ooaa12.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
-https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
-
 
 
 
@@ -11,11 +7,11 @@ http://eaiptv.net:8888/live/future3/future3/26500.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 2
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 2
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26501.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 3 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 3
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26481.m3u8
 
