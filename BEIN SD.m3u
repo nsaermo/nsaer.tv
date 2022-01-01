@@ -6,43 +6,43 @@ https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
 
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 1", 
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 1
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26500.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 2",
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 2
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26501.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 3", 
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 3 
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26481.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 1", 
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 1
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26482.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 2", 
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 2
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26483.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 3", 
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 3 
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26600.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 4", 
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 4
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26485.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 5", 
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 5
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26486.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 6",
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 6
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26487.m3u8
 
-#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 7", 
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 7
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26488.m3u8
 
