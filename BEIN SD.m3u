@@ -1,39 +1,58 @@
 
 
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 1
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 1 
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26500.m3u8
 
 
-
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 2
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
-http://eaiptv.net:8888/live/future3/future3/26501.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-J610F Build/PPR1.180610.011)
+http://174.138.184.166:25461/livesport_ios/livesport_android/14
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 3
-#EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-J610F Build/PPR1.180610.011)
 http://eaiptv.net:8888/live/future3/future3/26481.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 1
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 1 HD
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26482.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 1 SD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-J610F Build/PPR1.180610.011)
+http://174.138.184.166:25461/livesport_ios/livesport_android/29
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 2
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26483.m3u8
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 2 SD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-J610F Build/PPR1.180610.011)
+http://174.138.184.166:25461/livesport_ios/livesport_android/30
+
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 3
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26600.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 3 SD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-J610F Build/PPR1.180610.011)
+http://174.138.184.166:25461/livesport_ios/livesport_android/31
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 4
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26485.m3u8
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 4 SD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-J610F Build/PPR1.180610.011)
+http://174.138.184.166:25461/livesport_ios/livesport_android/32
+
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 5
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26486.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 5 SD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-J610F Build/PPR1.180610.011)
+http://174.138.184.166:25461/livesport_ios/livesport_android/33
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 6
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
@@ -42,4 +61,12 @@ http://eaiptv.net:8888/live/future3/future3/26487.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 7
 #EXTVLCOPT:http-user-agent=omda.tv/2.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
 http://eaiptv.net:8888/live/future3/future3/26488.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",beIN Sport XTRA 1 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-J610F Build/PPR1.180610.011)
+http://174.138.184.166:25461/livesport_ios/livesport_android/56
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",beIN Sport XTRA 2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-J610F Build/PPR1.180610.011)
+http://174.138.184.166:25461/livesport_ios/livesport_android/57
 
