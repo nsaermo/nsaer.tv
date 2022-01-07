@@ -3,23 +3,19 @@
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa51.png",الكاس 1
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.208:2200/TR-N/Alkass_one_HD-ar/tracks-v1a1/mono.m3u8?token=RED_Gsf-AanSnfw221IAA3H8Lw%3D%3D%2C1640233251.4009414566
+https://streamalkasscustom.azureedge.net/livehttporigin/smil:alkass1a.smil/chunklist_b2065536_sleng.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa51.png",الكاس 2
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://185.180.15.13:2200/TR-N/Alkass_two_HD-ar/tracks-v1a1/mono.m3u8?token=RED_Gsf-AanSnfw221IAA3H8Lw%3D%3D%2C1640233251.4009414566
+https://msalkasslivecustom.azureedge.net/livehttporigin/smil:alkas2b.smil/chunklist_b3065536_sleng.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa51.png",الكاس 4
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://185.180.15.13:2200/TR-N/Alkass_two_HD-ar/tracks-v1a1/mono.m3u8?token=RED_Gsf-AanSnfw221IAA3H8Lw%3D%3D%2C1640233251.4009414566
+http://212.224.98.213:2200/EX/ALKASS_4_HD-ar/tracks-v1a1/mono.m3u8?token=RED_hsBfxW3dlAdxQ7y39g6-9w%3D%3D%2C1641608177.4009414566
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa51.png",الكاس 5
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.208:2200/EX/ALKASS_5_HD-ar/tracks-v1a1/mono.m3u8?token=RED_Gsf-AanSnfw221IAA3H8Lw%3D%3D%2C1640233251.4009414566
+http://212.224.98.211:2200/EX/ALKASS_5_HD-ar/tracks-v1a1/mono.m3u8?token=RED_hsBfxW3dlAdxQ7y39g6-9w%3D%3D%2C1641608177.4009414566
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa51.png",الكاس اون لاين
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.208:2200/EX/ALKASS_5_HD-ar/tracks-v1a1/mono.m3u8?token=RED_Gsf-AanSnfw221IAA3H8Lw%3D%3D%2C1640233251.4009414566
+
 
 
