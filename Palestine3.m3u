@@ -22,7 +22,7 @@ http://185.5.222.146:8081/live/habbq18/chunks.m3u8
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao66.png",الاقصى
-https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1772951385.m3u8
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/91fd19e6da5d4acd833174df1dd9344d/chunklist_b4628000.m3u8?p=79&s=1649675130&e=1649675250&h=3ab8809163ff69f728039cb8ebe48b92
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/yoa17.png",راجعين
 https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
