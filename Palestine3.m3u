@@ -34,7 +34,7 @@ http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/a_a_aa11.png",هلا رام الله
-https://halaramallahtv.com:8443/HRamallah-Tv/HalaRamallah/chunklist_w172061015.m3u8
+https://halaramallahtv.com:8444/HRamallah-Tv/HalaRamallah/chunklist_w2055243681.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/a25.png",هلا 
 https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
@@ -88,10 +88,13 @@ http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aay10.png", الفجر 1
-http://www.elahmad.com/tv/m3u8/online_live_4_tv.m3u8?id=alfajertv&v=1237819632
+http://vstream3.hadara.ps:8081/AlfajertvUN_web/web/chunks.m3u8?nimblesessionid=272403243&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMS8yMDIyIDEwOjUzOjMwIEFNJmhhc2hfdmFsdWU9MVAvaWRBeTFaalVnQzlTWmVaTkJoZz09JnZhbGlkbWludXRlcz0xODAmaWQ9MTVhNzc4N2ZhMTI2ZWY3YjEzZjBlMjYxZWVjYjhlNjE=
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aay10.png", الفجر 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoa1410.png", تلفزيون المدينة
+https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1a1/mono.m3u8
 
 
 
