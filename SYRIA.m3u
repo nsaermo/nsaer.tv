@@ -5,18 +5,15 @@ https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 #EXTINF:0,[NSAER TV] SYRIA STREAM
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
 #EXTINF:0,[NSAER TV] SAMA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://185.9.2.25:80/MCNC_SAMA_TV/tracks-v1a1/mono.m3u8?token=telearabiamax.tv
+http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:0,[NSAER TV] ALSYRIAY
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.208:2200/TN/syriasatellitechannel-ar/tracks-v1a1/mono.m3u8?token=STATIC
+http://multies.xyz:8000/live/MULtieSAPpShaM22/VAdfV8qaUS/14.m3u8
 #EXTINF:0,[NSAER TV] SYRIA DRAMA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.204:2200/TN/syriandramatv-ar/tracks-v1a1/mono.m3u8?token=STATIC
+http://freearabic.zinamedia.net/ar/Syria-Drama/tracks-v1a1/mono.m3u8
 #EXTINF:0,[NSAER TV] Tarbaouia
-http://82.137.248.16:1935/SEdu/stream19042021/chunklist.m3u8
+https://vsd83.mycdn.me/hls/993670728310.m3u8/sig/oi_soTBVsck/expires/1649763136790/srcIp/193.202.110.22/clientType/0/srcAg/CHROME/mid/2117642690166/993670728310_lowest/index.m3u8
 #EXTINF:0,[NSAER TV] Noor Sham
-https://tv.chachatv.tk:443/live/syria87028/pas874509/264.ts
+http://82.137.248.16:1935/oLive/nour05042022/chunklist_w978468041.m3u8
 #EXTINF:0,[NSAER TV] Halab Today TV
 http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:0,[NSAER TV] ALARABY
@@ -26,7 +23,7 @@ http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m
 #EXTINF:0,[NSAER TV] LANA PLUS 
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 #EXTINF:0,[NSAER TV] Alikhbaria Syria 
-http://vod.alikhbaria.net:1935/Snews/stream19042021/chunklist_w831115281.m3u8
+http://multies.xyz:8000/live/MULtieSAPpShaM22/VAdfV8qaUS/15.m3u8
 #EXTINF:0,[NSAER TV] ALYAUM TV 
 https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
 #EXTINF:0,[NSAER TV] ALALAM SYRIA
