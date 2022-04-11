@@ -3,23 +3,23 @@
 https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
 #EXTINF:0,[NSAER TV] KTV 1
-http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtv1
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
 #EXTINF:0,[NSAER TV] KTV 2
-http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtv2
+https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8
 #EXTINF:0,[NSAER TV] KTV ARABE
-http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvarabi
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_720p/chunks.m3u8
 #EXTINF:0,[NSAER TV] KTV AL QURAIN
-http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvqurain
+https://kwmedia.hibridcdn.net/kwmedia/kwtvqurain_abr/kwmedia/kwtvqurain_720p/chunks.m3u8
 #EXTINF:0,[NSAER TV] KTV ETHRAA
-http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvethraa
+https://kwmedia.hibridcdn.net/kwmedia/kwtvethraa_abr/kwmedia/kwtvethraa_720p/chunks.m3u8
 #EXTINF:0,[NSAER TV] KTV SPORT
-http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvsports
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_720p/chunks.m3u8
 #EXTINF:0,[NSAER TV] KTV SPORT 2
-http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvsportsplus
+https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_720p/chunks.m3u8
 #EXTINF:0,[NSAER TV] KTV KHALLIK BILBAIT 
 http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvkids
 #EXTINF:0,[NSAER TV] KTV ALMAJLIS
-http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvmajlis
+https://kwmedia.hibridcdn.net/kwmedia/kwtvmajlis_abr/kwmedia/kwtvmajlis_720p/chunks.m3u8
 #EXTINF:0,[NSAER TV] AL BAWADI
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8
 #EXTINF:0,[NSAER TV] AL SABAH
