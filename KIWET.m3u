@@ -3,24 +3,21 @@
 https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
 #EXTINF:0,[NSAER TV] KTV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
-https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8
+https://edge.taghtia.com/br/kwmedia-kwtv1.m3u8
 #EXTINF:0,[NSAER TV] KTV 2
-https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8
+https://edge.taghtia.com/br/kwmedia-kwtv2.m3u8
 #EXTINF:0,[NSAER TV] KTV ARABE
-https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_720p/chunks.m3u8
+https://edge.taghtia.com/br/kwmedia-kwtvarabi.m3u8
 #EXTINF:0,[NSAER TV] KTV AL QURAIN
-https://kwmedia.hibridcdn.net/kwmedia/kwtvqurain_abr/kwmedia/kwtvqurain_720p/chunks.m3u8
+https://edge.taghtia.com/br/kwmedia-kwtvqurain.m3u8
 #EXTINF:0,[NSAER TV] KTV ETHRAA
-https://kwmedia.hibridcdn.net/kwmedia/kwtvethraa_abr/kwmedia/kwtvethraa_720p/chunks.m3u8
+https://edge.taghtia.com/br/kwmedia-kwtvethraa.m3u8
 #EXTINF:0,[NSAER TV] KTV SPORT
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsportsplus_abr/kwmedia/kwtvsportsplus_720p/chunks.m3u8
+https://edge.taghtia.com/br/kwmedia-kwtvsports.m3u8
 #EXTINF:0,[NSAER TV] KTV SPORT 2
-https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_720p/chunks.m3u8
-#EXTINF:0,[NSAER TV] KTV KHALLIK BILBAIT 
-http://www.elahmad.com/tv/m3u8/kuwait_tv.m3u8?id=kwtvkids
+https://edge.taghtia.com/br/kwmedia-kwtvsportsplus.m3u8
 #EXTINF:0,[NSAER TV] KTV ALMAJLIS
-https://kwmedia.hibridcdn.net/kwmedia/kwtvmajlis_abr/kwmedia/kwtvmajlis_720p/chunks.m3u8
+https://edge.taghtia.com/br/kwmedia-kwtvmajlis.m3u8
 #EXTINF:0,[NSAER TV] AL BAWADI
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8
 #EXTINF:0,[NSAER TV] AL SABAH
