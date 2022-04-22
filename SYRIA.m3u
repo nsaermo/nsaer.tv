@@ -1,33 +1,49 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
+#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/io16.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
 https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
-#EXTINF:0,[NSAER TV] SYRIA STREAM
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ioo_oo10.png",سورية ستريم
 https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunks.m3u8
-#EXTINF:0,[NSAER TV] SAMA
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/a26.png",سما
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
-#EXTINF:0,[NSAER TV] ALSYRIAY
-http://freearabic.zinamedia.net/ar/SYRIA/tracks-v1a1/mono.m3u8
-#EXTINF:0,[NSAER TV] SYRIA DRAMA
-http://freearabic.zinamedia.net/ar/Syria-Drama/tracks-v1a1/mono.m3u8
-#EXTINF:0,[NSAER TV] Tarbaouia
-https://vsd83.mycdn.me/hls/993670728310.m3u8/sig/oi_soTBVsck/expires/1649763136790/srcIp/193.202.110.22/clientType/0/srcAg/CHROME/mid/2117642690166/993670728310_lowest/index.m3u8
-#EXTINF:0,[NSAER TV] Noor Sham
-http://82.137.248.16:1935/oLive/nour05042022/chunklist_w978468041.m3u8
-#EXTINF:0,[NSAER TV] Halab Today TV
-http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:0,[NSAER TV] ALARABY
-http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
-#EXTINF:0,[NSAER TV] LANA 
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ioo_ca10.png",سورية دراما
+http://82.137.248.16:1935/oLive/drama05042022/chunklist_w1308321910.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aioo12.png",السورية
+http://82.137.248.16:1935/oLive/sat05042022/chunklist_w708719475.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aayaoo10.png",المحلية
+http://82.137.248.16:1935/oLive/aloula05042022/chunklist_w648676953.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ai_aa11.png",نور الشام
+http://82.137.248.16:1935/oLive/nour05042022/chunklist_w228200871.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa53.png",لنا
 http://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/m3u8/SDI1-720p.m3u8
-#EXTINF:0,[NSAER TV] LANA PLUS 
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa_oa11.png",لنا بلص
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:0,[NSAER TV] Alikhbaria Syria 
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/yao_ao10.png",حلب اليوم
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ByIZ86P4B04/live
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ayooo18.png",السورية الاخبارية
 http://multies.xyz:8000/live/MULtieSAPpShaM22/VAdfV8qaUS/15.m3u8
-#EXTINF:0,[NSAER TV] ALYAUM TV 
-https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-#EXTINF:0,[NSAER TV] ALALAM SYRIA
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoia14.png",اليوم 
+https://ikomg1.s.llnwi.net/alyaumtv/3-01.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaa_io11.png",العالم سورية
 https://live2.presstv.ir/live/alam_360p/chunklist_w1165767782.m3u8
-#EXTINF:0,[NSAER TV] SOURYANA
-http://82.137.248.16:1935/Souryana/stream19042021/playlist.m3u8?DVR
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoo29.png",العربي
+http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b1150000.m3u8
+
+
+
 
