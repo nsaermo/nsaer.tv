@@ -1,47 +1,4 @@
 #EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
-https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
-
-#EXTINF:0,[NSAER TV]  live future
-#EXTVLCOPT:http-user-agent=watchlb/wlan:4b:d6:2e:ba:b9:fd/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel8/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Af8%3Aeb%3A07%3Af8%3A8c%3A14
-#EXTINF:0,[NSAER TV]  ALJADEED
-#EXTVLCOPT:http-user-agent=watchlb/wlan:dd:f2:5b:4f:d8:38/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel7/tracks-v1a1/mono.m3u8
-#EXTINF:0,[NSAER TV] MTV
-#EXTVLCOPT:http-user-agent=watchlb/wlan:7a:d6:ec:93:04:e3/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel1/tracks-v2a1/mono.m3u8
-#EXTINF:0,[NSAER TV] ALMANAR
-https://manar.live/iptv/tracks-v1a1/mono.m3u8
-#EXTINF:0,[NSAER TV] Alhiwar TV
-http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
-#EXTINF:0,[NSAER TV] ALMAYADEEN
-https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t64NDgwcA==.m3u8
-#EXTINF:0,[NSAER TV] Tele Liban
-#EXTVLCOPT:http-user-agent=watchlb/wlan:4b:d6:2e:ba:b9:fd/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel8/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Af8%3Aeb%3A07%3Af8%3A8c%3A14
-#EXTINF:0,[NSAER TV] LBC
-https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
-#EXTINF:0,[NSAER TV] LBC INT
-http://flusonic-13.platinum-tv.com/LDC/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:0,[NSAER TV] LBC 2
-#EXTVLCOPT:http-user-agent=watchlb/wlan:46:96:1d:da:0b:44/57b1157b-01d2-44da-84da-21ad51bce63e
-http://ssitv.ddns.net:9074/channel6/tracks-v2a1/mono.m3u8
-#EXTINF:0,[NSAER TV] NBN
-#EXTVLCOPT:http-user-agent=watchlb/wlan:de:04:54:86:e5:07/57b1157b-01d2-44da-84da-21ad51bce63e
-https://nbntv.me:8443/nbntv/tracks-v2a1/mono.m3u8
-#EXTINF:0,|NSAER TV|OTV
-#EXTVLCOPT:http-user-agent=watchlb/wlan:4f:fa:bc:4a:45:92/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel3/tracks-v1a1/mono.m3u8
-#EXTINF:0,[NSAER TV] ROAAY NEW
-https://media1.livaat.com/live/New_Vision/tracks-v1a1/mono.m3u8
-#EXTINF:0,[NSAER TV] Alittihad‏
-https://live.alittihad.tv/ittihad/chunklist_w322831097.m3u8
-#EXTINF:0,[NSAER TV] ALIMAN TV
-https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
-#EXTINF:0,[NSAER TV] 1 ONE
-#EXTVLCOPT:http-user-agent=watchlb/wlan:af:92:97:2d:77:79/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel78/index.m3u8#EXTM3U
 #EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoaa15.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
 https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
 
@@ -103,4 +60,6 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/1_yooo10.png",1 ONE
 #EXTVLCOPT:http-user-agent=watchlb/wlan:af:92:97:2d:77:79/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
 http://ssitv.ddns.net:9074/channel78/index.m3u8
+
+
 
