@@ -3,3 +3,6 @@ https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8?p
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaioo_13.png",الكويت الثانية
 https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8?p=48&s=1652474128&e=1652560528&cf=1652560528&h=0700c300cf718765cc3685eca8de3bc5
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoo30.png",العربي
+https://kwmedia.hibridcdn.net/kwmedia/kwtvarabi_abr/kwmedia/kwtvarabi_720p/chunks.m3u8?p=52&s=1652474940&e=1652561340&cf=1652561340&h=14da34ae83a9afe09c1c38b40a8a8aa1
