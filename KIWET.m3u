@@ -37,3 +37,7 @@ https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaia13.png",فنون
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoy12.png",الصياح
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
