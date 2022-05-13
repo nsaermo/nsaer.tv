@@ -1,31 +1,5 @@
-#EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
-https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaioo_12.png",الكويت الاولى
+https://kwmedia.hibridcdn.net/kwmedia/kwtv1_abr/kwmedia/kwtv1_720p/chunks.m3u8?p=48&s=1651750923&e=1651837323&cf=1651837323&h=241fce1075bb535f203dd556afd52c362c36
 
-#EXTINF:0,[NSAER TV] KTV 1
-https://edge.taghtia.com/br/kwmedia-kwtv1.m3u8
-#EXTINF:0,[NSAER TV] KTV 2
-https://edge.taghtia.com/br/kwmedia-kwtv2.m3u8
-#EXTINF:0,[NSAER TV] KTV ARABE
-https://edge.taghtia.com/br/kwmedia-kwtvarabi.m3u8
-#EXTINF:0,[NSAER TV] KTV AL QURAIN
-https://edge.taghtia.com/br/kwmedia-kwtvqurain.m3u8
-#EXTINF:0,[NSAER TV] KTV ETHRAA
-https://edge.taghtia.com/br/kwmedia-kwtvethraa.m3u8
-#EXTINF:0,[NSAER TV] KTV SPORT
-https://edge.taghtia.com/br/kwmedia-kwtvsports.m3u8
-#EXTINF:0,[NSAER TV] KTV SPORT 2
-https://edge.taghtia.com/br/kwmedia-kwtvsportsplus.m3u8
-#EXTINF:0,[NSAER TV] KTV ALMAJLIS
-https://kwmedia.hibridcdn.net/kwmedia/kwtvmajlis_abr/kwmedia/kwtvmajlis_720p/chunks.m3u8?p=53&s=1651764916&e=1651851316&cf=1651851316&h=85007bfdfed8ae8a3dcd154f61d2639a
-#EXTINF:0,[NSAER TV] AL BAWADI
-https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8
-#EXTINF:0,[NSAER TV] AL SABAH
-https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
-#EXTINF:0,[NSAER TV] ALRAI TV
-https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
-#EXTINF:0,[NSAER TV] ATV
-https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/playlist.m3u8
-#EXTINF:0,[NSAER TV] FUNOON
-https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
-
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaioo_13.png",الكويت الثانية
+https://kwmedia.hibridcdn.net/kwmedia/kwtv2_abr/kwmedia/kwtv2_720p/chunks.m3u8?p=48&s=1652474128&e=1652560528&cf=1652560528&h=0700c300cf718765cc3685eca8de3bc5
