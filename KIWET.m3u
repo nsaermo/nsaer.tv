@@ -23,3 +23,6 @@ https://kwmedia.hibridcdn.net/kwmedia/kwtvsports_abr/kwmedia/kwtvsports_720p/chu
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaya11.png",المجلس
 https://kwmedia.hibridcdn.net/kwmedia/kwtvmajlis_abr/kwmedia/kwtvmajlis_720p/chunks.m3u8?p=53&s=1652475695&e=1652562095&cf=1652562095&h=189f9f6a2ad36a8bfb1dbeb173d4e4bf
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ao210.png",الراي
+https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
