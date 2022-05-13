@@ -11,7 +11,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatvpublish/syriatv/chunk
 http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ioo_ca10.png",سورية دراما
-http://82.137.248.16:1935/oLive/drama05042022/chunklist_w1308321910.m3u8
+http://vod.ortas.sy:1935/oLive/drama05042022/playlist.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aioo12.png",السورية
 http://82.137.248.16:1935/oLive/sat05042022/chunklist_w708719475.m3u8
