@@ -31,7 +31,7 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t
 http://ssitv.ddns.net:9074/channel8/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Af8%3Aeb%3A07%3Af8%3A8c%3A14
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/lbc11.png",LBC
-https://dai.google.com/linear/hls/pa/event/_KNLEUGwTJClZGHiPgN9hA/stream/a8f3b266-ac09-478e-a334-524e76dfb2f0:BRU/variant/0283640082f93bdfd0f4ef2f80afc435/bandwidth/2914055.m3u8
+https://edge.taghtia.com/br/rotana-lbc.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/lbc_in10.png",LBC INT
 #EXTVLCOPT:http-user-agent=watchlb/wlan:46:96:1d:da:0b:44/57b1157b-01d2-44da-84da-21ad51bce63e
