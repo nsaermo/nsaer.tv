@@ -39,5 +39,8 @@ https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
 https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
 
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoy12.png",الصياح
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoy12.png",الصباح
 https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/acao10.png",العدالة
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/playlist.m3u8
