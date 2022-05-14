@@ -32,7 +32,11 @@ https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoy13.png",الأتجاه
+http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/o_aoi10.png",أي نيوز
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 
 
 
