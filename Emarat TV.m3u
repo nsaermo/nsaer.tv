@@ -23,25 +23,29 @@ https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t
 https://admdn2ta.cdn.mgmlcdn.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,[NSAER TV] Sharjah
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao72.png",الشارقة
 https://svs.itworkscdn.net/smc1live/smc1.smil/smc1tv_chunks.m3u8
-#EXTINF:0,[NSAER TV] Sharjah 2
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao_213.png",الشارقة الثانية
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_chunks.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao_ao18.png",الشارقة الرياضية
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,|NSAER TV|Al Wousta
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustatv_chunks.m3u8
 #EXTINF:0,[NSAER TV] Al Dafrah
