@@ -10,24 +10,34 @@ https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/coo_ia12.png",دبي أون
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1300000.m3u8
 
-
-
-
-
-
-
-#EXTINF:0,[NSAER TV] Dubai One
-
-#EXTINF:0,[NSAER TV] Sama Dubai
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/a_coo10.png",سما دبي
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist_b1500000.m3u8
-#EXTINF:0,[NSAER TV] Noor Dubai
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ai_coo12.png",نور دبي
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
-#EXTINF:0,[NSAER TV] ADtv
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oi_oo10.png",ابو ظبي
 https://admdn2ta.cdn.mgmlcdn.com/adtv/smil:adtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:0,[NSAER TV] ADtv DRAMA
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:0,[NSAER TV] Nat Geo Abu Dhabi
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaia14.png",ناشنول جرافيك
 https://admdn2ta.cdn.mgmlcdn.com/nagtv/smil:nagtv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,[NSAER TV] Sharjah
 https://svs.itworkscdn.net/smc1live/smc1.smil/smc1tv_chunks.m3u8
 #EXTINF:0,[NSAER TV] Sharjah 2
