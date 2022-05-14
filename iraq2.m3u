@@ -1,22 +1,25 @@
-#EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
-https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mbc_ir10.png",MBC IRAQ
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 
-#EXTINF:0,[NSAER TV] MBC IRAQ
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
-#EXTINF:0,[NSAER TV] AL RASHEED
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoc21.png",الرشيد
 https://media1.livaat.com/AL-RASHEED-HD/tracks-v1a1/mono.m3u8
-#EXTINF:0,[NSAER TV] AL SUMARIA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.212:2200/TR-N/Al_Sumaria_HD_TV-ar/tracks-v1a1/mono.m3u8?token=STATIC
-#EXTINF:0,[NSAER TV] DIJLAH
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/cyao11.png",دجلة
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:0,[NSAER TV] AL IRAQYA
-https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general2/chunks.m3u8
-#EXTINF:0,[NSAER TV] IRAQ NEWS
-https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news2/chunks.m3u8
-#EXTINF:0,[NSAER TV] AL THAQALAYN
-https://live.thaqalayn.tv/hls/live.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoo20.png",العراقية
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoo20.png",العراقية الاخبارية
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoaaoa11.png",الثقلين
+http://77.36.160.160:1935/videolive/thaghalayn/chunklist_w1091308858.m3u8
+
+
+
+
+
 #EXTINF:0,[NSAER TV] AL SHARQIYA NEWS
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:0,[NSAER TV] AL HURRA NEWS
