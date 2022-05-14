@@ -32,35 +32,25 @@ https://svs.itworkscdn.net/smc2live/smc2tv.smil/smc2tv_chunks.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao_ao18.png",الشارقة الرياضية
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,|NSAER TV|Al Wousta
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aio15.png",الوسطى
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/alwoustatv_chunks.m3u8
-#EXTINF:0,[NSAER TV] Al Dafrah
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao73.png",الظفرة
 https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/index_3_av-p.m3u8
-#EXTINF:0,[NSAER TV] YES
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/o29.png",يس
 https://admdn1ta.cdn.mgmlcdn.com/yastv/smil:yastv.stream.smil/chunklist_b1800000_t64NzIwcA==.m3u8
-#EXTINF:0,[NSAER TV] AD Sports-1
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oi_oo_10.png",ابو ظبي الرياضية 1
 https://admdn1ta.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:0,[NSAER TV] AD Sports-2
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oi_oo_10.png",ابو ظبي الرياضية 2
 https://admdn5ta.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:0,[NSAER TV] AD Sports-3
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oi_oo_10.png",ابو ظبي الرياضية 3
 https://admdn3ta.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-#EXTINF:0,[NSAER TV] AD Sports-4
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oi_oo_10.png",ابو ظبي الرياضية 4
 https://admdn4ta.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-
 
 
