@@ -16,16 +16,25 @@ http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoaaoa11.png",الثقلين
 http://77.36.160.160:1935/videolive/thaghalayn/chunklist_w1091308858.m3u8
 
-
-
-
-
-#EXTINF:0,[NSAER TV] AL SHARQIYA NEWS
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoo21.png",الشرقية 
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:0,[NSAER TV] AL HURRA NEWS
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ayo12.png",الحرة
 https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-#EXTINF:0,[NSAER TV] AL RAFIDAIN
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aacoa11.png",الرافدين
 http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:0,[NSAER TV] AL AHAD
 http://148.66.130.171:1935/Alahadlive/AlahadTV/chunklist_w1075532857.m3u8
 #EXTINF:0,[NSAER TV] TARAB
