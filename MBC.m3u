@@ -1,15 +1,17 @@
-#EXTM3U
-#EXTINF:-1, tvg-id"" tvg-name="nul" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nsaer253.png" group-title="",[color yellow]مرحبا بك في تطبيق NSAER TV[/color]
-https://i16.servimg.com/u/f16/18/15/28/91/nnn10.jpg
-
-#EXTINF:0,[NSAER TV] MBC1
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mbc110.png",MBC1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
-#EXTINF:0,[NSAER TV] MBC2
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mbc211.png",MBC2
 https://7jlive.tooli-tv.com/live/149010_.m3u8?token=25c7ec90a22d11ecbd37f14832a15668
-#EXTINF:0,[NSAER TV] MBC3
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mbc311.png",MBC3
 https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
-#EXTINF:0,[NSAER TV] MBC4
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mbc411.png",MBC4
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+
+
+
 #EXTINF:0,[NSAER TV] MBC5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:0,[NSAER TV] MBC BOLLYWOOD
