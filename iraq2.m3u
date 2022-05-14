@@ -10,7 +10,7 @@ https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoo20.png",العراقية
 http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoo20.png",العراقية الاخبارية
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ayooo21.png",العراقية الاخبارية
 http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoaaoa11.png",الثقلين
@@ -25,33 +25,20 @@ https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aacoa11.png",الرافدين
 http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
 
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0,[NSAER TV] AL AHAD
-http://148.66.130.171:1935/Alahadlive/AlahadTV/chunklist_w1075532857.m3u8
-#EXTINF:0,[NSAER TV] TARAB
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/o30.png",طرب
 https://ghaasiflu.online/tarab/tracks-v1a1/mono.m3u8
-#EXTINF:0,[NSAER TV] ZAGROS TV
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ai11.png",زاركوس
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:0,[NSAER TV] ALMWKEB
-#EXTVLCOPT:http-user-agent=shai
-https://master.starmena-cloud.com/hls/husaineiah.m3u8
-#EXTINF:0,[NSAER TV] AL ETEJAH TV
-https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/playlist.m3u8
-#EXTINF:0,[NSAER TV] IRAQ SPORT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36
-http://212.224.98.211:2200/TN/iraqiasporthd-ar/tracks-v1a1/mono.m3u8?token=STATIC
-#EXTINF:0,[NSAER TV] SBAB SPORT
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-https://tv.chachatv.tk:443/live/tilfaz01/arab01/1295.ts
-#EXTINF:0,[NSAER TV] AL RABIAA
-#EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
-http://212.224.98.211:2200/TR-N/AlRabiaa_Iraq_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+
+
+
+
+
+
+
+
+
+
+
+
