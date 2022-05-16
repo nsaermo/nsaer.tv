@@ -36,6 +36,9 @@ https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/111.m3u8|Referer=https
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/dmc_dr11.png",DMC DRAMA
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/117.m3u8|Referer=https://offline.freechannels.xyz/2021/12/dmc-drama-1.html
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa56.png",النهار 
+https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/50.m3u8|Referer=https://offline.freechannels.xyz/2021/07/nahar-1.html
+
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa_ca11.png",النهار دراما
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/15.m3u8|Referer=https://offline.freechannels.xyz/2021/07/nahar-drama-1.html
@@ -47,6 +50,18 @@ https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/98.m3u8|Referer=https:
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aayi210.png",المحور
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/4.m3u8|Referer=https://offline.freechannels.xyz/2021/07/mehwar-1.html
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_oi11.png",نيل سبورت
+https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/11.m3u8|Referer=https://offline.freechannels.xyz/2021/07/nile-sport-1.html
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_ca11.png",نيل دراما
+https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/12.m3u8|Referer=https://offline.freechannels.xyz/2021/07/nile-drama-1.html
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_ao12.png",نيل لايف
+http://vu-ott.com:8080/live/mag00:1A:79:CA:F4:62/cL3RfohbwG/125072.m3u8
 
 
 
