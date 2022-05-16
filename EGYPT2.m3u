@@ -1,8 +1,17 @@
-#EXTINF:-1 tvg-id="" tvg-logo="" ,TEN
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/teen10.png",TEN
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" ,AL KAHERA W ENNAS
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao_ia10.png",القاهرة والناس 1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kGIQMgz-ZSY
-#EXTINF:-1 tvg-id="" tvg-logo="" ,AL KAHERA W ENNAS +2
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao_ia11.png",القاهرة والناس 2
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=y4ws3LzEV0U
-#EXTINF:-1 tvg-id="" tvg-logo="" ,MASPERO ZAMAN
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ayoo_c10.png",الحياة دراما
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/27.m3u8|Referer=https://offline.freechannels.xyz/2021/06/blog-post_15.html
+
+
+
+
