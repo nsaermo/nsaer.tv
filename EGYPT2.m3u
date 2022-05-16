@@ -22,6 +22,14 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/elbaladtv
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/52.m3u8|Referer=https://offline.freechannels.xyz/2021/07/sofra-1.html
 
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/cbc12.png",CBC 
+https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/72.m3u8|Referer=https://offline.freechannels.xyz/2021/07/cbc-1.html
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/cbc_dr10.png",CBC drama
+https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/111.m3u8|Referer=https://offline.freechannels.xyz/2021/07/cbc-drama-1.html
+
+
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/dmc_dr11.png",DMC DRAMA
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/117.m3u8|Referer=https://offline.freechannels.xyz/2021/12/dmc-drama-1.html
 
