@@ -81,8 +81,11 @@ https://cdg8.edge.technocdn.com/watantv/live/chunks.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaaaoa12.png",مكملين
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_ai12.png",ON TV
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/on12.png",ON TV
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/112.m3u8|Referer=https://www.mediawy.site/2020/03/on-e-live.html
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/on_dra11.png",ON DRAMA
+https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/51.m3u8|Referer=https://www.mediawy.site/2021/09/on-drama.html
 
 
 
