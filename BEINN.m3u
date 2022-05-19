@@ -1,134 +1,58 @@
 
 
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 PREMIUM HD
-http://1.banglokora.xyz/live/61616550016/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 PREMIUM 
+#EXTVLCOPT:http-user-agent=like.aplp/9.8 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://5.180.211.41/live/Mina_Nasr/01203731263/101068.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 PREMIUM SD
-http://1.banglokora.xyz/live/888242570016/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 PREMIUM LOW
-http://1.banglokora.xyz/live/978484840016/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 PREMIUM
+#EXTVLCOPT:http-user-agent=like.aplp/9.8 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://marveliptv.life/live/Mina_Nasr/01203731263/101069.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 PREMIUM HD
-http://1.banglokora.xyz/live/6161949878/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 PREMIUM 
+#EXTVLCOPT:http-user-agent=like.aplp/9.8 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://marveliptv.life/live/Mina_Nasr/01203731263/101070.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 PREMIUM SD
-http://1.banglokora.xyz/live/794812450/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",Sports 2 PREMIUM LOW
-http://1.banglokora.xyz/live/1222338888/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 
+#EXTVLCOPT:http-user-agent=like.aplp/9.8 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://marveliptv.life/live/Mina_Nasr/01203731263/101071.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 PREMIUM HD
-http://1.banglokora.xyz/live/61512788878/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 PREMIUM SD
-http://1.banglokora.xyz/live/179885580/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 
+#EXTVLCOPT:http-user-agent=like.aplp/9.8 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://marveliptv.life/live/Mina_Nasr/01203731263/101072.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 PREMIUM LOW
-http://1.banglokora.xyz/live/8197978778/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 HD
-http://1.banglokora.xyz/live/918454578001/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 SD
-http://1.banglokora.xyz/live/978488877005/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3
+#EXTVLCOPT:http-user-agent=like.aplp/9.8 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://marveliptv.life/live/Mina_Nasr/01203731263/101073.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 1 LOW
-http://1.banglokora.xyz/live/31009988005/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 HD
-http://1.banglokora.xyz/live/69854211/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 4 
+#EXTVLCOPT:http-user-agent=like.aplp/9.8 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://marveliptv.life/live/Mina_Nasr/01203731263/101074.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 SD
-http://1.banglokora.xyz/live/10011244/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 2 LOW
-http://1.banglokora.xyz/live/4798998070/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 HD
-http://1.banglokora.xyz/live/645587700/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 5 
+#EXTVLCOPT:http-user-agent=like.aplp/9.8 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://marveliptv.life/live/Mina_Nasr/01203731263/101075.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 SD
-http://1.banglokora.xyz/live/161988840/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 3 LOW
-http://1.banglokora.xyz/live/551818447/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 4 HD
-http://1.banglokora.xyz/live/9787488847/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 6
+#EXTVLCOPT:http-user-agent=like.aplp/9.8 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://marveliptv.life/live/Mina_Nasr/01203731263/101076.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 4 SD
-http://1.banglokora.xyz/live/0103088447/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 4 LOW
-http://1.banglokora.xyz/live/131326625/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 5 HD
-http://1.banglokora.xyz/live/610303030/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 7 
+#EXTVLCOPT:http-user-agent=like.aplp/9.8 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+http://marveliptv.life/live/Mina_Nasr/01203731263/101077.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 5 SD
-http://1.banglokora.xyz/live/115451004/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 5 LOW
-http://1.banglokora.xyz/live/181818444/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 6 HD
-http://1.banglokora.xyz/live/1515000000/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 6 SD
-http://1.banglokora.xyz/live/788550011/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 6 LOW
-http://1.banglokora.xyz/live/9883322/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 7 HD
-http://1.banglokora.xyz/live/791001144/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 7 SD
-http://1.banglokora.xyz/live/100666696/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports 7 LOW
-http://1.banglokora.xyz/live/130306224/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 1 HD
-http://1.banglokora.xyz/live/996256440/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 1 SD
-http://1.banglokora.xyz/live/77000254/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 1 LOW
-http://1.banglokora.xyz/live/0417877700/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 2 HD
-http://1.banglokora.xyz/live/8800255521/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 2 SD
-http://1.banglokora.xyz/live/51514003371/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports Xtra 2 LOW
-http://1.banglokora.xyz/live/9982225541/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports News
-http://1.banglokora.xyz/live/62464521/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 1 HD
-http://1.banglokora.xyz/live/33523510/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 1 SD
-http://1.banglokora.xyz/live/14066007/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 1 LOW
-http://1.banglokora.xyz/live/79247621/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 2 HD
-http://1.banglokora.xyz/live/652177700/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 2 SD
-http://1.banglokora.xyz/live/68525202/index.m3u8
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb11.png",beIN Sports FR 3 LOW
-http://1.banglokora.xyz/live/2433016410/index.m3u8
 
 
 
