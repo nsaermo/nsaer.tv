@@ -1,23 +1,23 @@
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ssc10.png",SSC SPORT 1
-http://localchannels.zinamedia.net/ar-s/SSC1/tracks-v1a1/mono.m3u8
+http://217.74.16.155:8082/local/ar-s/SSC1/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ssc10.png",SSC SPORT 2
-http://localchannels.zinamedia.net/ar-s/SSC2/tracks-v1a1/mono.m3u8
+http://217.74.16.155:8082/local/ar-s/SSC2/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ssc10.png",SSC SPORT 3
-http://localchannels.zinamedia.net/ar-s/SSC3/tracks-v1a1/mono.m3u8
+http://217.74.16.155:8082/local/ar-s/SSC3/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ssc10.png",SSC SPORT 4
-http://localchannels.zinamedia.net/ar-s/SSC4/tracks-v1a1/mono.m3u8
+http://217.74.16.155:8082/local/ar-s/SSC4/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ssc10.png",SSC SPORT 5
-http://localchannels.zinamedia.net/ar-s/SSC5/tracks-v1a1/mono.m3u8
+http://217.74.16.155:8082/local/ar-s/SSC5/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ssc10.png",SSC SPORT 6
-http://localchannels.zinamedia.net/ar-s/SSC6/tracks-v1a1/mono.m3u8
+http://217.74.16.155:8082/local/ar-s/SSC6/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ssc10.png",SSC SPORT 7
-http://localchannels.zinamedia.net/ar-s/SSC7/tracks-v1a1/mono.m3u8
+http://217.74.16.155:8082/local/ar-s/SSC7/index.m3u8
 
