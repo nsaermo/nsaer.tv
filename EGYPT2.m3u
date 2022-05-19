@@ -59,29 +59,25 @@ https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/11.m3u8|Referer=https:
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_ca11.png",نيل دراما
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/12.m3u8|Referer=https://offline.freechannels.xyz/2021/07/nile-drama-1.html
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_ca11.png",نيل دراما سيرفير اخر
-https://livestreaming5.onlinehorizons.net/hls-live/NTNNileDrama/_definst_/liveevent/liveevent.m3u8|Referer=http://www.niletc.tv/Channel/drama
+
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_oa12.png",نيل سينما
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/35.m3u8|Referer=https://offline.freechannels.xyz/2021/08/nile-cinema-1.html
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_oa12.png",نيل سينما سيرفير اخر
-https://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveevent/livestream.m3u8|Referer=http://www.niletc.tv/Channel/cinema
+
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_ai12.png",نيل كوميدي
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/36.m3u8|Referer=https://offline.freechannels.xyz/2021/08/nile-comedy-1.html
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_ai12.png",نيل كوميدي سيرفير اخر
-https://livestreaming5.onlinehorizons.net/hls-live/NTNNileComedy/_definst_/liveevent/livestream.m3u8|Referer=http://www.niletc.tv/Channel/comedy
+
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_ao12.png",نيل لايف
 http://vu-ott.com:8080/live/mag00:1A:79:CA:F4:62/cL3RfohbwG/125072.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa_ao12.png",نيل لايف سيرفير اخر
-https://livestreaming5.onlinehorizons.net/hls-live/NTNNileLife/_definst_/liveevent/livestream.m3u8|Referer=http://www.niletc.tv/Channel/life
+
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/pnc11.png",pnc food
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/18.m3u8|Referer=https://offline.freechannels.xyz/2021/07/food-1.html
