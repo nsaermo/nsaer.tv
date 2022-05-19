@@ -5,13 +5,13 @@
 
 
 #EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 1", 
-http://dikoiptv.zapto.org:25461/live/SERVERPC5/pis8sOEEax3/102.m3u8
+http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 2",
-http://dikoiptv.zapto.org:25461/live/SERVERPC5/pis8sOEEax3/103.m3u8
+http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN PREMIUM 3", 
-http://dikoiptv.zapto.org:25461/live/SERVERPC5/pis8sOEEax3/104.m3u8
+http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png" group-title="BEIN SPORT 1", 
 http://dikoiptv.zapto.org:25461/live/SERVERPC5/pis8sOEEax3/105.m3u8
