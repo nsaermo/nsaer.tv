@@ -1,0 +1,11 @@
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORTS AFC
+http://217.74.16.155:8082/local//ar-s/bein-afc-HD/index.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORTS AFC 1
+http://217.74.16.155:8082/local//ar-s/bein-afc-1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORTS AFC 2
+http://217.74.16.155:8082/local//ar-s/bein-afc-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORTS AFC 3
+http://217.74.16.155:8082/local//ar-s/bein-afc-3/tracks-v1a1/mono.m3u8
