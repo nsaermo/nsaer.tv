@@ -53,6 +53,9 @@ https://stream.afaqtv.iq/live/channel/afaqtv/chunklist.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao74.png", الفرات
 http://95.216.180.111:1935/live/10/chunklist_w2089757638.m3u8?v=2959794267
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oaco10.png", يلادي
+http://95.216.180.111:1935/live/68/chunklist_w362928606.m3u8
+
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoo34.png",الرابعة1
 https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1653152380~dirs=1~hash=0d63f829e9397d502b27a/alrabiaatv.smil/alrabiaatv_480p_chunks.m3u8|Referer=https://www.alrabiaa.tv/live/alrabiaatvliveone
 
