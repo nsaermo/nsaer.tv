@@ -41,6 +41,9 @@ https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aiaoo12.png",السوامرية
 http://www.elahmad.com/tv/m3u8/online_live_13_tv.m3u8?id=sumari&v=262499862
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ae12.png",سامراء
+http://91.134.145.75/samarra/tracks-v1a1/mono.m3u8
+
 
 
 
