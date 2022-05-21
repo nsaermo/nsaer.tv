@@ -1,20 +1,14 @@
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 1 HD
 http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 1 SD
-http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 2 HD
 http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 2 SD
-http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 3 HD
 http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/index.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 3 SD
-http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 1 HD
 http://217.74.16.155:8082/local//ar-s/bein-1-stop/index.m3u8
