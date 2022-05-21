@@ -9,6 +9,11 @@ http://stream5.sama-tv.net/hls/stream_high/index.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ioo_ca10.png",سورية دراما
 https://freedemo1.xyz:2083/live/Hh2Fh7zsTcHV/T5tCK2GSt6zU/14.m3u8|Referer=https://offline.freechannels.xyz/2020/11/syria-drama.html
 
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ioo_ca10.png",سورية دراما سيرفير اخر
+http://movies.teledunet.com:8080/tdn/10020.11104698.17610660096/10020.m3u8|Referer=http://www.teledunet.com/?channel=10020&title=SYRIA%20DRAMA%20HD"
+
+
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aioo12.png",السورية
 http://82.137.248.16:1935/oLive/sat05042022/chunklist_w708719475.m3u8
 
