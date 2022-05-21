@@ -47,6 +47,9 @@ http://91.134.145.75/samarra/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaioao10.png", الموصلية
 http://95.216.180.111:1935/live/3/chunklist_w1998252885.m3u8
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa57.png", أفاق
+https://stream.afaqtv.iq/live/channel/afaqtv/chunklist.m3u8
+
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoo34.png",الرابعة1
 https://cllive.itworkscdn.net/alrabiaatvnewslive/token=nva=1653152380~dirs=1~hash=0d63f829e9397d502b27a/alrabiaatv.smil/alrabiaatv_480p_chunks.m3u8|Referer=https://www.alrabiaa.tv/live/alrabiaatvliveone
 
