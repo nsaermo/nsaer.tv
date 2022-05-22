@@ -9,8 +9,7 @@ http://ssitv.ddns.net:9074/channel8/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Af8
 http://ssitv.ddns.net:9074/channel7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mtv11.png",mtv
-#EXTVLCOPT:http-user-agent=watchlb/wlan:7a:d6:ec:93:04:e3/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel1/tracks-v2a1/mono.m3u8
+http://elahmad.ipslow.com:8080/mtv_lebanon/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaa81.png",المنار
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
