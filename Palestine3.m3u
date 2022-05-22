@@ -82,7 +82,7 @@ http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aay10.png", الفجر 1
-https://tv.chachatv.tk:443/live/television123/arabi123/449.m3u8
+http://www.elahmad.com/tv/m3u8/online_live_13_tv.m3u8?id=alfajertv&v=730195310
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aay10.png", الفجر 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
