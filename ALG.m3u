@@ -1,0 +1,63 @@
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoa1411.png","National TV" ,Algeria 1 الأولى
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoa1411.png",Canal Algérie الثانية
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoa1411.png",A3 News الإخبارية  
+https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoa1411.png",TV 4 Tamazighth الأمازيغية
+https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/a_coo10.png",TV 5 Quran القرآن الكريم
+https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/a_coo10.png",Algeria 6 السّادسة
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/a_coo10.png",TV 7 El Maarifa المعرفة
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/a_coo10.png",TV 8 Edhakira الذّاكرة
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aia18.png",Echorouk  الشروق 
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/hghofh10.png",News TV",Echorouk News الشروق الإخبارية
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/beur_t11.png",BEUR TV
+https://cdn02.hta.dz/abr_htatv/Beur_TV/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/el_bil10.png",El Bilad البلاد
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/el_hay10.png",El Hayat الحياة 
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/el_dja11.png",El Djazair N1
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ennaha10.png",Ennahar News النهار 
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/al24ne10.png",AL24NEWS 
+https://cdn02.hta.dz/abr_htatv/AL24_News/playlist.m3u8
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaooo18.png",المغاربية  
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCwKS2U-DwjPZZvM6mSXPKgA/live
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aca19.png",الهداف
+https://cdn02.hta.dz/abr_htatv/EL_HEDDAF_TV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoo35.png",سميرة
+https://cdn02.hta.dz/abr_htatv/SamiraTV/playlist.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aa59.png",الانيس
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
