@@ -1,40 +1,28 @@
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 1 HD
-http://217.74.16.155:8082/local//ar-s/B-S-pre-1-stop/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT 1 
+https://webudi.openhd.lol/ddyx2/premium91/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
 
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 2 HD
-http://217.74.16.155:8082/local//ar-s/B-S-pre-2-stop/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT 2 
+https://webudi.openhd.lol/ddyx2/premium92/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
 
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN PREMIUM 3 HD
-http://217.74.16.155:8082/local//ar-s/B-S-pre-3-stop/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT 3 
+https://webudi.openhd.lol/ddyx2/premium93/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
 
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 1 HD
-http://217.74.16.155:8082/local//ar-s/bein-1-stop/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT 4 
+https://webudi.openhd.lol/ddyx2/premium94/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 2 HD
-http://217.74.16.155:8082/local//ar-s/bein-2-stop/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT 5 
+https://webudi.openhd.lol/ddyx2/premium95/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
 
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 3 HD
-http://217.74.16.155:8082/local//ar-s/bein-3-stop/index.m3u8
-
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 4 HD
-http://217.74.16.155:8082/local//ar-s/bein-4-stop/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT 6 
+https://webudi.openhd.lol/ddyx2/premium96/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
 
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 5 HD
-http://217.74.16.155:8082/local//ar-s/bein-5-stop/index.m3u8
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT 6 
+https://webudi.openhd.lol/ddyx2/premium96/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
 
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 6 HD
-http://217.74.16.155:8082/local//ar-s/bein-6-stop/index.m3u8
-
-
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/bbb10.png",BEIN SPORT 7 HD
-http://217.74.16.155:8082/local//ar-s/bein-7-stop/index.m3u8
-
-
-
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT 7 
+https://webudi.openhd.lol/ddyx2/premium97/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
