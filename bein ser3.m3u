@@ -1,15 +1,23 @@
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT MAX 1
-https://go7.gocast2.com:999/hls/bein2extra.m3u8?md5=4oIBFIwVAl-9FCA87IdUog&expires=1668206354|Referer=https://gocast2.com/fsembed.php
+http://213.202.225.29:25461/live/544484579/journalsat/1731.m3u8
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT MAX 2
-https://go7.gocast2.com:999/hls/bein1extra.m3u8?md5=4oIBFIwVAl-9FCA87IdUog&expires=1668206354|Referer=https://gocast2.com/fsembed.php
+http://213.202.225.29:25461/live/544484579/journalsat/1733.m3u8
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT MAX 3
-https://t3.switchcast2.com:999/hls/bein3extra.m3u8?md5=7KB81uO63ybnomyQidOUvQ&expires=1668158039|Referer=https://gocast2.com/fsembed.php
+http://213.202.225.29:25461/live/544484579/journalsat/1735.m3u8
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT MAX 4
-https://t3.switchcast2.com:999/hls/bein3max.m3u8?md5=7KB81uO63ybnomyQidOUvQ&expires=1668158040|Referer=https://gocast2.com/fsembed.php
+http://213.202.225.29:25461/live/544484579/journalsat/1736.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT MAX 5
+http://213.202.225.29:25461/live/544484579/journalsat/1737.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/DKpSz7T/bbb10.png",BEIN SPORT MAX 6
+http://213.202.225.29:25461/live/544484579/journalsat/1738.m3u8
