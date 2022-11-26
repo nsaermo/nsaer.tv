@@ -10,4 +10,24 @@ https://webudi.openhd.lol/ddyx2/premium297/tracks-v1a1/mono.m3u8|Referer=https:/
 https://webdi.openhd.lol/ddyx2/premium298/tracks-v1a1/mono.m3u8|Referer=https://streamservicehd.click/.m3u8
 
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oo23.png",رايــة
+http://htvmada.mada.ps:8888/raya/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/yoa18.png",اجيال 
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/a_a_aa11.png",هلا رام الله
+https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist_w509341528.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/io_aoo11.png",وتر الرياضية
+http://htvmada.mada.ps:8888/orient2/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ayoo18.png", الحرية الرياضية
+http://vstream3.hadara.ps:8081/hrHD1_web/web/playlist.m3u8
+
+
 
