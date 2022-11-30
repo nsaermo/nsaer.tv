@@ -38,4 +38,8 @@ https://live.safa.news/live/sport/playlist.m3u8
 http://htvmada.mada.ps:8888/salamtv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/8D2rHmX/66.png",NUBAR Sport
+http://stream.nubar.tv:1935/private/NUBARSport/chunklist_w1104909269.m3u8
+
+
 
