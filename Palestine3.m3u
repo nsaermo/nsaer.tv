@@ -93,8 +93,12 @@ http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aoa17.png", تلفزيون نابلس
 http://htvmada.mada.ps:8888/nabluslive/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aay10.png", الفجر 1
-http://vstream4.hadara.ps:8081/AlfajertvHD1_web/web/chunks.m3u8|Referer=http://w.alfajertv.com/
+
+
+#EXTINF:-1 tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aay10.png" group-title="الفجر 1", 
+#EXTVLCOPT:http-user-agent=com.telearabi/1.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+https://tv.chachatv.tk:443/live/tele12/arabi13/449.ts
+
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aay10.png", الفجر 2
 http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
