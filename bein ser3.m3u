@@ -38,6 +38,10 @@ https://live.safa.news/live/sport/playlist.m3u8
 http://htvmada.mada.ps:8888/salamtv/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aay10.png",الفجر 1
+https://tv.chachatv.tk:443/live/tele12/arabi13/449.ts|http-user-agent=com.telearabi/1.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+
+
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/8D2rHmX/66.png",NUBAR Sport
 http://stream.nubar.tv:1935/private/NUBARSport/chunklist_w1104909269.m3u8
 
