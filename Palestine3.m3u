@@ -40,7 +40,7 @@ https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
 http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aayy11.png",النجاح 
-https://streaming.najah.edu:8443/hls/AlNajah_mid/index.m3u8
+https://streaming.najah.edu:8443/hls/AlNajah_hd720/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ico10.png",عودة 
 http://htvpalsat.mada.ps:8888/audeh/tracks-v1a1/mono.m3u8
