@@ -49,10 +49,10 @@ https://tv.chachatv.tk:443/live/tele12/arabi13/449.ts|http-user-agent=com.telear
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/vzz08QT/WWW3.png",KASS Extra 1 
-https://tv.chachatv.tk:443/live/syria12/tv12/1648.ts|http-user-agent=com.telearabi/1.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+https://lb.yacinetvkora.com/live/lb555/kas-x1.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/vzz08QT/WWW3.png",KASS Extra 2 
-https://tv.chachatv.tk:443/live/syria12/tv12/1649.ts|http-user-agent=com.telearabi/1.0 (Linux;Android 5.1.1) ExoPlayerLib/2.14.0
+https://lb.yacinetvkora.com/live/lb555/kas-x2.m3u8
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/8D2rHmX/66.png",NUBAR Sport
