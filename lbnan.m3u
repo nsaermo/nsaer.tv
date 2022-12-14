@@ -1,15 +1,16 @@
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoaoa11.png",المستقبل
-#EXTVLCOPT:http-user-agent=watchlb/wlan:4b:d6:2e:ba:b9:fd/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel8/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Af8%3Aeb%3A07%3Af8%3A8c%3A14
+#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
+http://ssitv.ddns.net:9074/wachannel9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aycoc11.png",الجديد
-#EXTVLCOPT:http-user-agent=watchlb/wlan:dd:f2:5b:4f:d8:38/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel7/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
+http://ssitv.ddns.net:9074/wachannel7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mtv11.png",mtv
-http://elahmad.ipslow.com:8080/mtv_lebanon/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
+http://ssitv.ddns.net:9074/wachannel1/tracks-v3a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaa81.png",المنار
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
@@ -22,26 +23,27 @@ http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t64NDgwcA==.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oaaoia12.png",تلفزيون لبنان
-#EXTVLCOPT:http-user-agent=watchlb/wlan:4b:d6:2e:ba:b9:fd/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel8/tracks-v1a1/mono.m3u8?token=wlan%3Awlan%3Af8%3Aeb%3A07%3Af8%3A8c%3A14
+#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
+http://ssitv.ddns.net:9074/wachannel8/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/lbc11.png",LBC
 https://edge.taghtia.com/br/rotana-lbc.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/lbc_in10.png",LBC INT
-#EXTVLCOPT:http-user-agent=watchlb/wlan:46:96:1d:da:0b:44/57b1157b-01d2-44da-84da-21ad51bce63e
-http://ssitv.ddns.net:9074/channel5/tracks-v2a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
+http://ssitv.ddns.net:9074/wachannel2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/lbc211.png",LBC 2 
-#EXTVLCOPT:http-user-agent=watchlb/wlan:46:96:1d:da:0b:44/57b1157b-01d2-44da-84da-21ad51bce63e
-http://ssitv.ddns.net:9074/channel6/tracks-v2a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
+http://ssitv.ddns.net:9074/wachannel6/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nbn11.png",NBN 
-https://nbntv.me:8443/nbntv/tracks-v2a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
+http://ssitv.ddns.net:9074/wachannel5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/otv11.png",OTV
-#EXTVLCOPT:http-user-agent=watchlb/wlan:4f:fa:bc:4a:45:92/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel3/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
+http://ssitv.ddns.net:9074/wachannel3/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/io_yco10.png",رؤيا حديدة
 https://media1.livaat.com/live/New_Vision/tracks-v1a1/mono.m3u8
@@ -53,8 +55,8 @@ https://live.alittihad.tv/ittihad/chunklist_w322831097.m3u8
 https://svs.itworkscdn.net/alimanlive/imantv.smil/alimanpublish/imantv/chunks.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/1_yooo10.png",1 ONE
-#EXTVLCOPT:http-user-agent=watchlb/wlan:af:92:97:2d:77:79/4bc1994c-dec9-4e0b-92cd-a7e7d5450a83
-http://ssitv.ddns.net:9074/channel78/index.m3u8
+#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
+http://ssitv.ddns.net:9074/wachanne78/tracks-v1a1/mono.m3u8
 
 
 
