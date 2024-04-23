@@ -3,7 +3,7 @@
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoa14.png",فلسطين
-http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoa_a17.png",فلسطين مباشر
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
@@ -11,24 +11,19 @@ http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoa_a18.png",فلسطين اليوم
 https://live.paltodaytv.com/paltv/live/chunklist_w766400624.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aac_ao11.png",القدس اليوم
-http://185.5.222.146:8081/live/habbq18/chunks.m3u8
-
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aao66.png",الاقصى
-https://live-2.seraj.tv/aqsatv/live/tv/chunklist.m3u8
+http://95.216.180.111:1935/live/68/chunklist_w367273560.m3u8
 
-#EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/p_dk10.png",حطين
-https://dacastmmd.mmdlive.lldns.net/dacastmmd/344e2bf5323c4b5ab3d537fac37d31ef/chunklist_b4628000.m3u8?p=79&s=1649692357&e=1649692477&h=306617db70cb857133aaae18654b67aa
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/yoa17.png",راجعين
 https://mn-nl.mncdn.com/palabroad/live/chunklist.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaoao11.png",فلسطيني
-http://51.255.84.28:8081/palestiniantv_source/live/playlist.m3u8
+https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aio12.png",مساواة
-http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
+https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/a_a_aa11.png",هلا رام الله
 https://halaramallahtv.com:2053/HRamallah-Tv/HalaRamallah/chunklist_w509341528.m3u8
@@ -79,7 +74,7 @@ http://htvmada.mada.ps:8888/salamtv/tracks-v1a1/mono.m3u8
 http://217.21.0.15:8081/pnn/pnn/chunks.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaa71.png", مكان
-https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_1.8k/chunklist.m3u8
+https://makan.media.kan.org.il/hls/live/2024680/2024680/source1_2.5k/chunklist.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/iaoo11.png", اورنيت
 http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
@@ -108,7 +103,7 @@ https://streaming.zaytonatube.com:8081/AlMadinatv/almadina21/tracks-v1a1/mono.m3
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oaca11.png", بلدنا
-http://htvmada.mada.ps:8888/baladna/tracks-v1a1/mono.m3u8
+https://streaming.zaytonatube.com:8081/radioalbalad/radioalbalad/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i.ibb.co/dLyP0JK/WWW.png", تلفزيون حكاية
