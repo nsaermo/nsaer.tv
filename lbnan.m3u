@@ -5,17 +5,13 @@
 http://ssitv.ddns.net:9074/wachannel9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aycoc11.png",الجديد
-#EXTVLCOPT:http-referrer=https://on.yllalive.net/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
-https://wsla.top/live/admin/stopcopying/14.m3u8
+http://212.18.115.51:2052/live/448541210370/2saS1KQiWT/2109.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mtv11.png",mtv
-#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
-http://ssitv.ddns.net:9074/wachannel1/tracks-v3a1/mono.m3u8
+http://212.18.115.51:2052/live/448541210370/2saS1KQiWT/143961.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aaa81.png",المنار
 https://manar.live/iptv/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/ayi12.png",الحوار
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
@@ -29,7 +25,7 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/mbs1/chunks.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/lbc11.png",LBC
-https://edge.taghtia.com/br/rotana-lbc.m3u8
+http://212.18.115.51:2052/live/448541210370/2saS1KQiWT/143958.m3u8?md5=c87f2c6086c697cd7b1d6e41257d8878
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/lbc_in10.png",LBC INT
 #EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
