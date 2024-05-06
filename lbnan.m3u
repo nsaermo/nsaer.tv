@@ -5,8 +5,8 @@
 http://ssitv.ddns.net:9074/wachannel9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aycoc11.png",الجديد
-#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
-http://ssitv.ddns.net:9074/wachannel7/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referer=https://on.yllalive.net/
+https://wsla.top/live/admin/stopcopying/14.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mtv11.png",mtv
 #EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
