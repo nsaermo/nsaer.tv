@@ -36,9 +36,9 @@ http://ssitv.ddns.net:9074/wachannel2/tracks-v1a1/mono.m3u8
 http://ssitv.ddns.net:9074/wachannel6/index.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/nbn11.png",NBN 
-#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-Refere=https://odysee.com/
-https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/720.m3u8
+https://cloud.odysee.live/content/1d8edd84bd42e695555dbf20d83b45e203ed9ed0/720.m3u8|Referer=https://odysee.com/
+
+
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/otv11.png",OTV
 #EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
