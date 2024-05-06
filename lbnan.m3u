@@ -5,7 +5,7 @@
 http://ssitv.ddns.net:9074/wachannel9/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/aycoc11.png",الجديد
-#EXTVLCOPT:http-referer=https://on.yllalive.net/
+#EXTVLCOPT:http-referrer=https://on.yllalive.net/
 https://wsla.top/live/admin/stopcopying/14.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/mtv11.png",mtv
