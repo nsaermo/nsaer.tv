@@ -23,8 +23,8 @@ http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/chunklist_b2000000_t64NDgwcA==.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/oaaoia12.png",تلفزيون لبنان
-#EXTVLCOPT:http-user-agent=watchlb/wlan:56:A2:62:0E:84:03/0036384a-488a-3aa3-a9dd-8a0fb0ba56f5
-http://ssitv.ddns.net:9074/wachannel8/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 
 #EXTINF:-1 group-title="1 pl" tvg-logo="https://i16.servimg.com/u/f16/18/15/28/91/lbc11.png",LBC
 https://edge.taghtia.com/br/rotana-lbc.m3u8
