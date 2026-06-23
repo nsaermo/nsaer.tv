@@ -23,4 +23,7 @@ http://212.224.98.208:2200/EX/SSC_06_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
 #EXTINF:0,[NSAER TV] SSC SPORT 7
 #EXTVLCOPT:http-user-agent=REDLINECLIENT ANDROID MOBILE 1.0.16
 http://212.224.98.208:2200/EX/SSC_07_HD-ar/tracks-v1a1/mono.m3u8?token=STATIC
+#EXTINF:0,[NSAER TV] SSC SPORT 8
+#EXTVLCOPT:http-Referer=https://tv.alfajertv.com/
+https://vstream7.hadara.ps/AlfajertvHD1_web/web/chunks.m3u8?nimblesessionid=205016805&wmsAuthSign=c2VydmVyX3RpbWU9Ni8yMy8yMDI2IDU6NTI6MTQgUE0maGFzaF92YWx1ZT03R1pGQUR3RDJ3U08vSDREY1FuNklBPT0mdmFsaWRtaW51dGVzPTE4MCZpZD1ma205Zm5pNjhmcGpjZzlpbGM1ZWNjNHE1bg==
 
