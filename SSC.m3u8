@@ -30,3 +30,8 @@ https://vstream7.hadara.ps/AlfajertvHD1_web/web/chunks.m3u8?nimblesessionid=2050
 #EXTVLCOPT:Referer=https://player.syria-player.live/albaplayer/beinmax1/?serv=1
 https://43cup.s3.us-east-2.amazonaws.com/max1/master.m3u8
 
+#EXTINF:0,[NSAER TV]tee2
+#EXTVLCOPT:Referer=https://x.com/
+http://het4444.ycn-redirect.com/live/181818444/index.m3u8?t=fjbHeKPt4aoy0Xs8NV1zXw&e=1782250364
+
+
